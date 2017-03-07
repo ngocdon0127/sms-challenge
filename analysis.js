@@ -9,7 +9,7 @@ var dic = {}
 
 var KGRAM = 3; // Khai báo sau hàm tokenizer thì trong hàm tokenizer, KGRAM = 0 => ko extract dc gram nào :))
 var tokenizerFlag = 2;
-var trainingSize = 90;
+var trainingSize = 100;
 var generalize = true;
 
 function tokenizer(string) {
