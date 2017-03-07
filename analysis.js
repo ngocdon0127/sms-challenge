@@ -8,7 +8,7 @@ var ham = {}
 var dic = {}
 
 var KGRAM = 3; // Khai báo sau hàm tokenizer thì trong hàm tokenizer, KGRAM = 0 => ko extract dc gram nào :))
-var tokenizerFlag = 1;
+var tokenizerFlag = 2;
 var trainingSize = 90;
 var generalize = true;
 

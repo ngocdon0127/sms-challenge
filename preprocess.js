@@ -17,7 +17,7 @@ String.prototype.vi2en = function() {
 	return str;
 }
 
-var onlyLowerCase = false;
+var onlyLowerCase = true;
 
 var fs = require('fs');
 

@@ -1,52 +1,52 @@
 [
     {
-        "id": 3,
+        "id": 14,
         "label": 1,
-        "content": "Troi dep thi bao troi dep, u ko dien den muc i dau. Co 1 it nc mat roi. Hoho minh chua bi lanh cam :v"
+        "content": "co 3 nguoi giong em. con vai nguoi nua duoi 3 nhung a ko ve nha dau dang ngoi o ho tien"
     },
     {
-        "id": 7,
+        "id": 15,
         "label": 1,
-        "content": "ko phai ninh dam. tu nhien nghi ra de nt ah"
+        "content": "chuc anh vui ve"
     },
     {
-        "id": 18,
-        "label": 1,
-        "content": "chuan bi $ hoc lai tiep"
+        "id": 21,
+        "label": -1,
+        "content": "(qc) soan tin dk gui 9224 de dang ki funring hoac chon manhaccho gui 9224 de tai nhac cho va gianh co hoi trung 3 xe yamaha cuxi, 8 nokia e72 tu mobifone. top nhac hot thang 4: vi sao:5429467, ton tho mot tinh yeu: 51210445, tinh yeu hoa gio: 572119. tu choi qc soan tin"
+    },
+    {
+        "id": 24,
+        "label": -1,
+        "content": "cay online. tai mien phi, tang ngay 50k tai khoan game http://"
     },
     {
         "id": 33,
         "label": 1,
-        "content": "Troi ret nam trong chan am vai. Dech muon di hoc. Nghi de."
+        "content": "troi ret nam trong chan am vai. dech muon di hoc. nghi de."
     },
     {
-        "id": 39,
+        "id": 56,
         "label": 1,
-        "content": "Biet ma. U doc 1 doan 2 thang nc vs nhau: \"m ma thit dc em i thi tha ho, luc i cu' tha ra no van phai ba'm m\" mia no! Ke ca la ck thi u van bo chu ko phai ngy."
+        "content": "neu lao i muon gthich lao i phai hen u chu nhi?"
     },
     {
-        "id": 42,
-        "label": 1,
-        "content": "Troi ret nam trong chan am vai. Dech muon di hoc. Nghi de."
-    },
-    {
-        "id": 51,
+        "id": 58,
         "label": -1,
-        "content": "Hien nay co cap LO TO chac an trong ngay. De lay soan VNT gui 7393 gia 3000 dong"
+        "content": "co ban gai dang yeu ten h xxx gui tang tb 0913 xxx mot nhac pham voi loi nhan hy vong nhan ra em qua bai hat nay"
     },
     {
         "id": 65,
         "label": -1,
-        "content": "Mo ban 100.000 ve \"Bay khap Viet Nam\" gia co 10.000 dong tai www.vietjetair. com tu 21h-23h59 ngay 10,11,12. Hotline 19001886"
+        "content": "mo ban 100.000 ve \"bay khap viet nam\" gia co 10.000 dong tai www.vietjetair. com tu 21h-23h59 ngay 10,11,12. hotline 19001886"
     },
     {
-        "id": 79,
+        "id": 91,
         "label": 1,
-        "content": "the ko con dua nao doc than giong anh ah."
+        "content": "the co bao luu cung anh ko. trong tg bao luu van dang ky hoc lai thoai mai.chi ay bao the"
     },
     {
-        "id": 85,
+        "id": 93,
         "label": 1,
-        "content": "Mai di tap the duc thi goi to nhe"
+        "content": "thoi duoc roi. ma anh di lam thi chang onl dau ma biet. ve toi kp face thi lay gi giai tri?"
     }
 ]

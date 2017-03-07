@@ -2,37 +2,37 @@
     {
         "id": 0,
         "label": -1,
-        "content": "Ghe goi dau loai 1 chinh hang giam gia con hang cong ty chinh hang giam gia con thoi gian khuyen mai het ngay luu y"
+        "content": "ghe goi dau loai 1 chinh hang giam gia con hang cong ty chinh hang giam gia con thoi gian khuyen mai het ngay luu y"
     },
     {
         "id": 1,
         "label": 1,
-        "content": "Anh thay em tuoi tho du doi a phet day. Viet ve sau phong van ho hoi day. Se co cam giac than thien"
+        "content": "anh thay em tuoi tho du doi a phet day. viet ve sau phong van ho hoi day. se co cam giac than thien"
     },
     {
         "id": 2,
         "label": -1,
-        "content": "Chuc mung 093 xxx nhan duoc bai hat Vip \"Luc moi yeu\" tu mot nguoi ban ten H tang. De nghe bai hat va loi nhan duoc ghi am soan: VIP gui 7799"
+        "content": "chuc mung 093 xxx nhan duoc bai hat vip \"luc moi yeu\" tu mot nguoi ban ten h tang. de nghe bai hat va loi nhan duoc ghi am soan: vip gui 7799"
     },
     {
         "id": 3,
         "label": 1,
-        "content": "Troi dep thi bao troi dep, u ko dien den muc i dau. Co 1 it nc mat roi. Hoho minh chua bi lanh cam :v"
+        "content": "troi dep thi bao troi dep, u ko dien den muc i dau. co 1 it nc mat roi. hoho minh chua bi lanh cam :v"
     },
     {
         "id": 4,
         "label": 1,
-        "content": "Ranh tao nho chut viec"
+        "content": "ranh tao nho chut viec"
     },
     {
         "id": 5,
         "label": -1,
-        "content": "Nhan dip ra mat tang Quy khach SBC se du doan trung ..."
+        "content": "nhan dip ra mat tang quy khach sbc se du doan trung ..."
     },
     {
         "id": 6,
         "label": -1,
-        "content": "Ban duoc tang Tuyen tap 500 GAME ONLINE chon loc cuc hay"
+        "content": "ban duoc tang tuyen tap 500 game online chon loc cuc hay"
     },
     {
         "id": 7,
@@ -42,17 +42,17 @@
     {
         "id": 8,
         "label": 1,
-        "content": "Duoc roi dang nao cung phai qua ben do nop don. Haizzzzz sao ma bao luu cung thay tiec qua.suy nghi may hnay roi"
+        "content": "duoc roi dang nao cung phai qua ben do nop don. haizzzzz sao ma bao luu cung thay tiec qua.suy nghi may hnay roi"
     },
     {
         "id": 9,
         "label": 1,
-        "content": "May dang o dau the"
+        "content": "may dang o dau the"
     },
     {
         "id": 10,
         "label": -1,
-        "content": "Xin cam on va chuc mung ban cung 5585 ban khac voi cap 33-88 cua VD hom qua Hom nay VD mua tiep 1 cap cam ket an ca 2, co the an DB"
+        "content": "xin cam on va chuc mung ban cung 5585 ban khac voi cap 33-88 cua vd hom qua hom nay vd mua tiep 1 cap cam ket an ca 2, co the an db"
     },
     {
         "id": 11,
@@ -67,7 +67,7 @@
     {
         "id": 13,
         "label": 1,
-        "content": "Cau goi dien cho thay chua. Hom nay len gap khong tren lab chi co thay thoi"
+        "content": "cau goi dien cho thay chua. hom nay len gap khong tren lab chi co thay thoi"
     },
     {
         "id": 14,
@@ -77,17 +77,17 @@
     {
         "id": 15,
         "label": 1,
-        "content": "Chuc anh vui ve"
+        "content": "chuc anh vui ve"
     },
     {
         "id": 16,
         "label": -1,
-        "content": "Thanh ly hang he hang cong so quan ao hang thu gia cuc re quy khach vui long toi dia chi"
+        "content": "thanh ly hang he hang cong so quan ao hang thu gia cuc re quy khach vui long toi dia chi"
     },
     {
         "id": 17,
         "label": 1,
-        "content": "Chuc mung nam moi!"
+        "content": "chuc mung nam moi!"
     },
     {
         "id": 18,
@@ -102,122 +102,122 @@
     {
         "id": 20,
         "label": -1,
-        "content": "Dang ky goi Tan Mao de tiet kiem 97% cuoc goi noi mang, soan Y1 gui den 999 de dang ki goi 30phut/ngay voi 2.500d, soan Y2 voi 5.000d goi 90phut/ngay"
+        "content": "dang ky goi tan mao de tiet kiem 97% cuoc goi noi mang, soan y1 gui den 999 de dang ki goi 30phut/ngay voi 2.500d, soan y2 voi 5.000d goi 90phut/ngay"
     },
     {
         "id": 21,
         "label": -1,
-        "content": "(QC) Soan tin DK gui 9224 de dang ki FunRing hoac CHON MANHACCHO gui 9224 de tai nhac cho va gianh co hoi trung 3 xe Yamaha Cuxi, 8 Nokia E72 tu Mobifone. Top nhac Hot thang 4: Vi sao:5429467, Ton tho mot tinh yeu: 51210445, Tinh yeu hoa gio: 572119. Tu choi QC soan tin"
+        "content": "(qc) soan tin dk gui 9224 de dang ki funring hoac chon manhaccho gui 9224 de tai nhac cho va gianh co hoi trung 3 xe yamaha cuxi, 8 nokia e72 tu mobifone. top nhac hot thang 4: vi sao:5429467, ton tho mot tinh yeu: 51210445, tinh yeu hoa gio: 572119. tu choi qc soan tin"
     },
     {
         "id": 22,
         "label": -1,
-        "content": "Tri An KH MOBIFONE Dau Nam tang LOC VANG cho TB 090... Lay Ket Qua Xo So, CAU BACH THU, XIU CHU Cam Ket Trung 100%"
+        "content": "tri an kh mobifone dau nam tang loc vang cho tb 090... lay ket qua xo so, cau bach thu, xiu chu cam ket trung 100%"
     },
     {
         "id": 23,
         "label": -1,
-        "content": "QC Ban da nhan duoc LOI CHUC NAM MOI tu mot nguoi ban ( yeu cau giau ten ) Loi chuc kem theo qua tang goi DV"
+        "content": "qc ban da nhan duoc loi chuc nam moi tu mot nguoi ban ( yeu cau giau ten ) loi chuc kem theo qua tang goi dv"
     },
     {
         "id": 24,
         "label": -1,
-        "content": "Cay Online. Tai MIEN PHI, tang ngay 50k Tai Khoan Game http://"
+        "content": "cay online. tai mien phi, tang ngay 50k tai khoan game http://"
     },
     {
         "id": 25,
         "label": -1,
-        "content": "Ban co so SERI 2281969 TRUNG VOI ngay thanh lap CTy XSMB Chung Toi da co 1Kep ve 2nhay gui tang ban: Nhan So: Soan LK gui 8709"
+        "content": "ban co so seri 2281969 trung voi ngay thanh lap cty xsmb chung toi da co 1kep ve 2nhay gui tang ban: nhan so: soan lk gui 8709"
     },
     {
         "id": 26,
         "label": 1,
-        "content": "Cam on cau nhieu nhe"
+        "content": "cam on cau nhieu nhe"
     },
     {
         "id": 27,
         "label": -1,
-        "content": "QC.Mot nguoi da goi truc tiep den tong dai yeu cau gui tang ban BAI HAT & ghi am LOI NHAN thoai gui den Ban.De nhan BAI HAT & nghe LOI NHAN soan: DK gui 7775"
+        "content": "qc.mot nguoi da goi truc tiep den tong dai yeu cau gui tang ban bai hat & ghi am loi nhan thoai gui den ban.de nhan bai hat & nghe loi nhan soan: dk gui 7775"
     },
     {
         "id": 28,
         "label": -1,
-        "content": "Re nhat rong bay tu quy du loai, website chuyen sim so dep viettel cac loai uy tin bao hanh tron doi. LH hanh phuc duoc phuc vu quy anh chi."
+        "content": "re nhat rong bay tu quy du loai, website chuyen sim so dep viettel cac loai uy tin bao hanh tron doi. lh hanh phuc duoc phuc vu quy anh chi."
     },
     {
         "id": 29,
         "label": -1,
-        "content": "Ban biet thu Phap co mat pho Tran Quoc Toan, so do chinh chu ten tu nhan, dien tich 241 m2, mat tien m, hau rong m, gia ca thoa thuan. Lien he bac Khanh"
+        "content": "ban biet thu phap co mat pho tran quoc toan, so do chinh chu ten tu nhan, dien tich 241 m2, mat tien m, hau rong m, gia ca thoa thuan. lien he bac khanh"
     },
     {
         "id": 30,
         "label": 1,
-        "content": "Lang le rut lui ah? U van muon nghe 1 loi giai thich :("
+        "content": "lang le rut lui ah? u van muon nghe 1 loi giai thich :("
     },
     {
         "id": 31,
         "label": 1,
-        "content": "Uh anh dang o tren phong dao tao day. Nhung ho chua lam viec lat anh hoi cho"
+        "content": "uh anh dang o tren phong dao tao day. nhung ho chua lam viec lat anh hoi cho"
     },
     {
         "id": 32,
         "label": -1,
-        "content": "Mo ban du an Golden Land - 275 Nguyen Trai - gia goc chu dau tu - LH: dia chi"
+        "content": "mo ban du an golden land - 275 nguyen trai - gia goc chu dau tu - lh: dia chi"
     },
     {
         "id": 33,
         "label": 1,
-        "content": "Troi ret nam trong chan am vai. Dech muon di hoc. Nghi de."
+        "content": "troi ret nam trong chan am vai. dech muon di hoc. nghi de."
     },
     {
         "id": 34,
         "label": 1,
-        "content": "Chuc ngu ngon nhe"
+        "content": "chuc ngu ngon nhe"
     },
     {
         "id": 35,
         "label": 1,
-        "content": "Voi hoi ho cho em? Da ap dung luat duoi 3 voi vb2 chua?"
+        "content": "voi hoi ho cho em? da ap dung luat duoi 3 voi vb2 chua?"
     },
     {
         "id": 36,
         "label": 1,
-        "content": "Ret qua. Em doi di choi thanh cong chua?"
+        "content": "ret qua. em doi di choi thanh cong chua?"
     },
     {
         "id": 37,
         "label": 1,
-        "content": "Nay, cau di ngu ngay di"
+        "content": "nay, cau di ngu ngay di"
     },
     {
         "id": 38,
         "label": -1,
-        "content": "KM dac biet mung nam moi. Dem loxo, dem bong ep, chan ga goi, chan loxo..."
+        "content": "km dac biet mung nam moi. dem loxo, dem bong ep, chan ga goi, chan loxo..."
     },
     {
         "id": 39,
         "label": 1,
-        "content": "Biet ma. U doc 1 doan 2 thang nc vs nhau: \"m ma thit dc em i thi tha ho, luc i cu' tha ra no van phai ba'm m\" mia no! Ke ca la ck thi u van bo chu ko phai ngy."
+        "content": "biet ma. u doc 1 doan 2 thang nc vs nhau: \"m ma thit dc em i thi tha ho, luc i cu' tha ra no van phai ba'm m\" mia no! ke ca la ck thi u van bo chu ko phai ngy."
     },
     {
         "id": 40,
         "label": -1,
-        "content": "Ban can ho chung cu mini Xuan Dinh, vao o ngay, can ho hoan thien, noi that cao cap LH"
+        "content": "ban can ho chung cu mini xuan dinh, vao o ngay, can ho hoan thien, noi that cao cap lh"
     },
     {
         "id": 41,
         "label": -1,
-        "content": "Top nhac Hot thang 4: Vi sao:5429467, Ton tho mot tinh yeu: 51210445, Tinh yeu hoa gio: 572119. Tu choi QC soan tin"
+        "content": "top nhac hot thang 4: vi sao:5429467, ton tho mot tinh yeu: 51210445, tinh yeu hoa gio: 572119. tu choi qc soan tin"
     },
     {
         "id": 42,
         "label": 1,
-        "content": "Troi ret nam trong chan am vai. Dech muon di hoc. Nghi de."
+        "content": "troi ret nam trong chan am vai. dech muon di hoc. nghi de."
     },
     {
         "id": 43,
         "label": -1,
-        "content": "Cty chuyen cung cap binh ngam ruou sam han quoc cuc dep gia cuc re tai TP HCM. lien he dia chi"
+        "content": "cty chuyen cung cap binh ngam ruou sam han quoc cuc dep gia cuc re tai tp hcm. lien he dia chi"
     },
     {
         "id": 44,
@@ -227,122 +227,122 @@
     {
         "id": 45,
         "label": -1,
-        "content": "Bep hong ngoai Panasonic moi 100% chi 289K va tang kem 1 vi nuong. Bao hanh 12 thang. LH dia chi"
+        "content": "bep hong ngoai panasonic moi 100% chi 289k va tang kem 1 vi nuong. bao hanh 12 thang. lh dia chi"
     },
     {
         "id": 46,
         "label": -1,
-        "content": "QC VMS2 Ma du thuong cT \"Alo ngay tien day tay\" : Tu 000... den 000... Tu choi nhan Ma du thuong, soan TC1 gui 9241"
+        "content": "qc vms2 ma du thuong ct \"alo ngay tien day tay\" : tu 000... den 000... tu choi nhan ma du thuong, soan tc1 gui 9241"
     },
     {
         "id": 47,
         "label": -1,
-        "content": "VUI XUAN: Gai 1Con lam xxx cuc PHE Tai ve xem ngay. Mien Phi: http://"
+        "content": "vui xuan: gai 1con lam xxx cuc phe tai ve xem ngay. mien phi: http://"
     },
     {
         "id": 48,
         "label": 1,
-        "content": "Cau luu them so cua Trung vao Cau dep trai deo kinh nhom truong ngai hen thay thi cu goi cho cau nay truoc"
+        "content": "cau luu them so cua trung vao cau dep trai deo kinh nhom truong ngai hen thay thi cu goi cho cau nay truoc"
     },
     {
         "id": 49,
         "label": 1,
-        "content": "Duoi 5 nguoi thi ko mo lop. H con cach la hoc lai cung k truoc thoi. Cam thay qua suc thi bao luu anh thay cung kho nang ne lam.co len beo':-)"
+        "content": "duoi 5 nguoi thi ko mo lop. h con cach la hoc lai cung k truoc thoi. cam thay qua suc thi bao luu anh thay cung kho nang ne lam.co len beo':-)"
     },
     {
         "id": 50,
         "label": -1,
-        "content": "Hom nay VD mua tiep 1 cap cam ket an ca 2, co the an DB"
+        "content": "hom nay vd mua tiep 1 cap cam ket an ca 2, co the an db"
     },
     {
         "id": 51,
         "label": -1,
-        "content": "Hien nay co cap LO TO chac an trong ngay. De lay soan VNT gui 7393 gia 3000 dong"
+        "content": "hien nay co cap lo to chac an trong ngay. de lay soan vnt gui 7393 gia 3000 dong"
     },
     {
         "id": 52,
         "label": 1,
-        "content": "Con oi, u co nen gap lao i noi ro rang het moi chuyen ko?"
+        "content": "con oi, u co nen gap lao i noi ro rang het moi chuyen ko?"
     },
     {
         "id": 53,
         "label": -1,
-        "content": "Lau Nuong UPA-UPA (Phong cach KOREA) Tai 2 PHAM NGOC THACH (CAU TRUNG TU) HA NOI.Chi Con 127Nghin Nguoi Buffee An thoai mai Khuyen Mai Tu 01-09 12-2012"
+        "content": "lau nuong upa-upa (phong cach korea) tai 2 pham ngoc thach (cau trung tu) ha noi.chi con 127nghin nguoi buffee an thoai mai khuyen mai tu 01-09 12-2012"
     },
     {
         "id": 54,
         "label": 1,
-        "content": "The a, bao gio the ha cau"
+        "content": "the a, bao gio the ha cau"
     },
     {
         "id": 55,
         "label": -1,
-        "content": "(ClipXXX)6 Clip 18+ em MyPhuong voi Sep(nghe PHE vai) http://"
+        "content": "(clipxxx)6 clip 18+ em myphuong voi sep(nghe phe vai) http://"
     },
     {
         "id": 56,
         "label": 1,
-        "content": "Neu lao i muon gthich lao i phai hen u chu nhi?"
+        "content": "neu lao i muon gthich lao i phai hen u chu nhi?"
     },
     {
         "id": 57,
         "label": -1,
-        "content": "Anh oi, em moi ban nham tien qua may anh, anh gui lai giup em duoc khong a! Em sinh vien chang co nhieu tien, anh giup em thi tot qua."
+        "content": "anh oi, em moi ban nham tien qua may anh, anh gui lai giup em duoc khong a! em sinh vien chang co nhieu tien, anh giup em thi tot qua."
     },
     {
         "id": 58,
         "label": -1,
-        "content": "Co ban gai dang yeu ten H xxx gui tang TB 0913 xxx mot nhac pham voi loi nhan Hy vong nhan ra em qua bai hat nay"
+        "content": "co ban gai dang yeu ten h xxx gui tang tb 0913 xxx mot nhac pham voi loi nhan hy vong nhan ra em qua bai hat nay"
     },
     {
         "id": 59,
         "label": -1,
-        "content": "Chuyen cung cap thep V lo da nang gia si va le LH dia chi Viet Cuong Phat DC"
+        "content": "chuyen cung cap thep v lo da nang gia si va le lh dia chi viet cuong phat dc"
     },
     {
         "id": 60,
         "label": -1,
-        "content": "Ban BT song lap tai DTM My Dinh dt 138 m2, MT 11m, da hoan thien dep 3.5 tang, co gara oto, noi that hien dai, truoc nha 12m, gan duong Doan Thi Diem. Gia 19 ty. Lien he:"
+        "content": "ban bt song lap tai dtm my dinh dt 138 m2, mt 11m, da hoan thien dep 3.5 tang, co gara oto, noi that hien dai, truoc nha 12m, gan duong doan thi diem. gia 19 ty. lien he:"
     },
     {
         "id": 61,
         "label": -1,
-        "content": "Sua Laptop Lay tien, uy tin, hieu qua, gia re, chuyen nghiep LH: Mr Phong"
+        "content": "sua laptop lay tien, uy tin, hieu qua, gia re, chuyen nghiep lh: mr phong"
     },
     {
         "id": 62,
         "label": 1,
-        "content": "Mang len co 1 it thoi a? Xach bao nhieu do nhu vay lai con mang them nua. Sao ko mang 1 bao tai cho bo~ cong .:-)"
+        "content": "mang len co 1 it thoi a? xach bao nhieu do nhu vay lai con mang them nua. sao ko mang 1 bao tai cho bo~ cong .:-)"
     },
     {
         "id": 63,
         "label": 1,
-        "content": "Hay anh len cho vien kinh te hoi chi van anh giup em voi? Em so diem trac thi chi tren day moi biet."
+        "content": "hay anh len cho vien kinh te hoi chi van anh giup em voi? em so diem trac thi chi tren day moi biet."
     },
     {
         "id": 64,
         "label": 1,
-        "content": "Gi ma vo nghia? Con dang chet di trong cai van phong day ah? Ra ngoai ma nhin troi dep that day, do be'o i.."
+        "content": "gi ma vo nghia? con dang chet di trong cai van phong day ah? ra ngoai ma nhin troi dep that day, do be'o i.."
     },
     {
         "id": 65,
         "label": -1,
-        "content": "Mo ban 100.000 ve \"Bay khap Viet Nam\" gia co 10.000 dong tai www.vietjetair. com tu 21h-23h59 ngay 10,11,12. Hotline 19001886"
+        "content": "mo ban 100.000 ve \"bay khap viet nam\" gia co 10.000 dong tai www.vietjetair. com tu 21h-23h59 ngay 10,11,12. hotline 19001886"
     },
     {
         "id": 66,
         "label": -1,
-        "content": "BAN LA NGUOI MAY MAN! HaLinh Tang ban 5 Lan Dau Gia MIEN PHI 1 Cay Vang 9999 (17trieu) ne CoHoi DacBiet chi co Trong Hom Nay Thoi! Soan: DG GIA gui 8752"
+        "content": "ban la nguoi may man! halinh tang ban 5 lan dau gia mien phi 1 cay vang 9999 (17trieu) ne cohoi dacbiet chi co trong hom nay thoi! soan: dg gia gui 8752"
     },
     {
         "id": 67,
         "label": 1,
-        "content": "Em nghi the thoi. Dung la ba gia. Anh lam roi mat cai the ra vao cty roi. H chang biet lam the nao ca."
+        "content": "em nghi the thoi. dung la ba gia. anh lam roi mat cai the ra vao cty roi. h chang biet lam the nao ca."
     },
     {
         "id": 68,
         "label": -1,
-        "content": "So huu vong eo thon gon san chac la muc tieu khong chi rieng chi em phai dep. dai massage giam gia dac biet chi con"
+        "content": "so huu vong eo thon gon san chac la muc tieu khong chi rieng chi em phai dep. dai massage giam gia dac biet chi con"
     },
     {
         "id": 69,
@@ -352,47 +352,47 @@
     {
         "id": 70,
         "label": 1,
-        "content": "Anh xem ds co ai duoi 3 ko?"
+        "content": "anh xem ds co ai duoi 3 ko?"
     },
     {
         "id": 71,
         "label": -1,
-        "content": "Son chat luong cao, giao hang tan noi, gia ca canh tranh. LH dia chi"
+        "content": "son chat luong cao, giao hang tan noi, gia ca canh tranh. lh dia chi"
     },
     {
         "id": 72,
         "label": -1,
-        "content": "Real Madrid - Barcelona Hay soan tin: BD RMA gui 8779 de CHIEN THANG KET QUA CHO: BD RMA gui 8579. TAI XIU SANG NHAT: BD TX gui 8779"
+        "content": "real madrid - barcelona hay soan tin: bd rma gui 8779 de chien thang ket qua cho: bd rma gui 8579. tai xiu sang nhat: bd tx gui 8779"
     },
     {
         "id": 73,
         "label": 1,
-        "content": "Chuc cau nam moi vui ve gap nhieu dieu may man va thanh cong trong su nghiep"
+        "content": "chuc cau nam moi vui ve gap nhieu dieu may man va thanh cong trong su nghiep"
     },
     {
         "id": 74,
         "label": -1,
-        "content": "Ban da dang ki tu choi nhan tin QC! Tin nhan quang cao se khong duoc gui toi so thue bao cua ban nua! Chuc ban 1 ngay vui ve,tot lanh!"
+        "content": "ban da dang ki tu choi nhan tin qc! tin nhan quang cao se khong duoc gui toi so thue bao cua ban nua! chuc ban 1 ngay vui ve,tot lanh!"
     },
     {
         "id": 75,
         "label": -1,
-        "content": "Gia soc: nhan dip 30/4 1/5 giam gia cuc soc cho sim so dep tu 23/4 3/5 Co hoi co 1 khong 2 Lien he giao dich"
+        "content": "gia soc: nhan dip 30/4 1/5 giam gia cuc soc cho sim so dep tu 23/4 3/5 co hoi co 1 khong 2 lien he giao dich"
     },
     {
         "id": 76,
         "label": -1,
-        "content": "Chung cu ban gia goc 16,2 trieu dong/m2, thanh toan 9 dot, nam ngay tren mat duong Pham Van Dong, Tu Liem, cach Cau Giay 15 phut di xe may. Quy khach vui long lien he de duoc tu van mien phi"
+        "content": "chung cu ban gia goc 16,2 trieu dong/m2, thanh toan 9 dot, nam ngay tren mat duong pham van dong, tu liem, cach cau giay 15 phut di xe may. quy khach vui long lien he de duoc tu van mien phi"
     },
     {
         "id": 77,
         "label": 1,
-        "content": "Cuoc song ngay cang kho khan"
+        "content": "cuoc song ngay cang kho khan"
     },
     {
         "id": 78,
         "label": 1,
-        "content": ":)) anh dua thoi. Da mang 1 dong quan ao lai xach them nua cho nang ra."
+        "content": ":)) anh dua thoi. da mang 1 dong quan ao lai xach them nua cho nang ra."
     },
     {
         "id": 79,
@@ -402,47 +402,47 @@
     {
         "id": 80,
         "label": -1,
-        "content": "Can ho doidien cho Pham Van Hai, Tan Binh chi 1,6 ty/can (da bao gom VAT) LH dia chi"
+        "content": "can ho doidien cho pham van hai, tan binh chi 1,6 ty/can (da bao gom vat) lh dia chi"
     },
     {
         "id": 81,
         "label": -1,
-        "content": "Tu viettel tang 50% gia tri the nap cho thue bao tra truoc. So tien cong them su dung cho goi va nhan tin ngoai mang noi mang"
+        "content": "tu viettel tang 50% gia tri the nap cho thue bao tra truoc. so tien cong them su dung cho goi va nhan tin ngoai mang noi mang"
     },
     {
         "id": 82,
         "label": -1,
-        "content": "Du an Dolphin Plaza, 28 Tran Binh, Cau giay , Ha noi. Thiet ke rat hien dai cua Singapore, hon 6000 m2 san vuon, cay xanh mat dat, hon 3000 m2 lam khu sinh thai tai cot 17,5m, be boi cho nguoi lon, be boi cho tre em, san tam nang ngay"
+        "content": "du an dolphin plaza, 28 tran binh, cau giay , ha noi. thiet ke rat hien dai cua singapore, hon 6000 m2 san vuon, cay xanh mat dat, hon 3000 m2 lam khu sinh thai tai cot 17,5m, be boi cho nguoi lon, be boi cho tre em, san tam nang ngay"
     },
     {
         "id": 83,
         "label": -1,
-        "content": "WapPush: Sexy>>Emgai thoi ken nhin rat PHE(13phut ban dep) http://"
+        "content": "wappush: sexy>>emgai thoi ken nhin rat phe(13phut ban dep) http://"
     },
     {
         "id": 84,
         "label": -1,
-        "content": "TV 6723 Ban Muon Biet TU VI trong nam 2012 TIEN BAC-CONG DANH-TINH DUYEN & cach giai VAN nhu the nao. Soan: TV Namsinh gui 6723."
+        "content": "tv 6723 ban muon biet tu vi trong nam 2012 tien bac-cong danh-tinh duyen & cach giai van nhu the nao. soan: tv namsinh gui 6723."
     },
     {
         "id": 85,
         "label": 1,
-        "content": "Mai di tap the duc thi goi to nhe"
+        "content": "mai di tap the duc thi goi to nhe"
     },
     {
         "id": 86,
         "label": -1,
-        "content": "BAN LA NGUOI MAY MAN HaLinh Tang ban 5 Lan DauGia MIEN PHI 1 Cay Vang 9999 (17trieu) ne CoHoi Dac Biet chi co Trong Hom Nay Thoi Soan: DG GIA gui 8752"
+        "content": "ban la nguoi may man halinh tang ban 5 lan daugia mien phi 1 cay vang 9999 (17trieu) ne cohoi dac biet chi co trong hom nay thoi soan: dg gia gui 8752"
     },
     {
         "id": 87,
         "label": 1,
-        "content": "Quen mat chua rua da mang cho a. E vua di ve."
+        "content": "quen mat chua rua da mang cho a. e vua di ve."
     },
     {
         "id": 88,
         "label": -1,
-        "content": "Ban Laptop cu, laptop core i5, laptop core i3, tem zin gia re LH:"
+        "content": "ban laptop cu, laptop core i5, laptop core i3, tem zin gia re lh:"
     },
     {
         "id": 89,
@@ -452,22 +452,22 @@
     {
         "id": 90,
         "label": -1,
-        "content": "Cung cap gian gia gia ke shop thoi trang gia goc va nhan thiet ke, gia cong shop gia re lien he dia chi"
+        "content": "cung cap gian gia gia ke shop thoi trang gia goc va nhan thiet ke, gia cong shop gia re lien he dia chi"
     },
     {
         "id": 91,
         "label": 1,
-        "content": "The co bao luu cung anh ko. Trong tg bao luu van dang ky hoc lai thoai mai.chi ay bao the"
+        "content": "the co bao luu cung anh ko. trong tg bao luu van dang ky hoc lai thoai mai.chi ay bao the"
     },
     {
         "id": 92,
         "label": 1,
-        "content": "Hom nay di hoc co vui khong ?"
+        "content": "hom nay di hoc co vui khong ?"
     },
     {
         "id": 93,
         "label": 1,
-        "content": "Thoi duoc roi. Ma anh di lam thi chang onl dau ma biet. Ve toi kp face thi lay gi giai tri?"
+        "content": "thoi duoc roi. ma anh di lam thi chang onl dau ma biet. ve toi kp face thi lay gi giai tri?"
     },
     {
         "id": 94,
@@ -477,26 +477,26 @@
     {
         "id": 95,
         "label": -1,
-        "content": "Ban da dang ki tu choi nhan tin QC! Tin nhan quang cao se khong duoc gui toi so thue bao cua ban nua!Chuc ban 1 ngay vui ve,tot lanh!"
+        "content": "ban da dang ki tu choi nhan tin qc! tin nhan quang cao se khong duoc gui toi so thue bao cua ban nua!chuc ban 1 ngay vui ve,tot lanh!"
     },
     {
         "id": 96,
         "label": 1,
-        "content": "U ch? qua d?y l?y t?m 6h kem 10"
+        "content": "u ch? qua d?y l?y t?m 6h kem 10"
     },
     {
         "id": 97,
         "label": -1,
-        "content": "Cty Dinh Thai - Chuyen sx cac loai dien tro dot nong dung trong cong nghiep va dan dung. Lh DC"
+        "content": "cty dinh thai - chuyen sx cac loai dien tro dot nong dung trong cong nghiep va dan dung. lh dc"
     },
     {
         "id": 98,
         "label": -1,
-        "content": "TV 6723 Ban Muon Biet TU VI trong nam 2012 TIEN BAC CONG DANH TINH DUYEN & cach giai VAN nhu the nao. Soan: TV Namsinh gui 6723."
+        "content": "tv 6723 ban muon biet tu vi trong nam 2012 tien bac cong danh tinh duyen & cach giai van nhu the nao. soan: tv namsinh gui 6723."
     },
     {
         "id": 99,
         "label": 1,
-        "content": "C cung biet so co a"
+        "content": "c cung biet so co a"
     }
 ]
