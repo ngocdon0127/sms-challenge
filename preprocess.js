@@ -17,7 +17,7 @@ String.prototype.vi2en = function() {
 	return str;
 }
 
-var onlyLowerCase = true;
+var onlyLowerCase = false;
 
 var fs = require('fs');
 
@@ -55,6 +55,7 @@ d.map((element, index) => {
 	switch (label){
 		case -1: 
 		case 1:
+			e.id = index
 			e.label = label;
 			e.content = parts.slice(1).join(' ');
 			break;

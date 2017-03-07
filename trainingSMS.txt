@@ -15,11 +15,6 @@
         "content": "Chuc mung 093 xxx nhan duoc bai hat Vip \"Luc moi yeu\" tu mot nguoi ban ten H tang. De nghe bai hat va loi nhan duoc ghi am soan: VIP gui 7799"
     },
     {
-        "id": 3,
-        "label": 1,
-        "content": "Troi dep thi bao troi dep, u ko dien den muc i dau. Co 1 it nc mat roi. Hoho minh chua bi lanh cam :v"
-    },
-    {
         "id": 4,
         "label": 1,
         "content": "Ranh tao nho chut viec"
@@ -33,11 +28,6 @@
         "id": 6,
         "label": -1,
         "content": "Ban duoc tang Tuyen tap 500 GAME ONLINE chon loc cuc hay"
-    },
-    {
-        "id": 7,
-        "label": 1,
-        "content": "ko phai ninh dam. tu nhien nghi ra de nt ah"
     },
     {
         "id": 8,
@@ -88,11 +78,6 @@
         "id": 17,
         "label": 1,
         "content": "Chuc mung nam moi!"
-    },
-    {
-        "id": 18,
-        "label": 1,
-        "content": "chuan bi $ hoc lai tiep"
     },
     {
         "id": 19,
@@ -165,11 +150,6 @@
         "content": "Mo ban du an Golden Land - 275 Nguyen Trai - gia goc chu dau tu - LH: dia chi"
     },
     {
-        "id": 33,
-        "label": 1,
-        "content": "Troi ret nam trong chan am vai. Dech muon di hoc. Nghi de."
-    },
-    {
         "id": 34,
         "label": 1,
         "content": "Chuc ngu ngon nhe"
@@ -195,11 +175,6 @@
         "content": "KM dac biet mung nam moi. Dem loxo, dem bong ep, chan ga goi, chan loxo..."
     },
     {
-        "id": 39,
-        "label": 1,
-        "content": "Biet ma. U doc 1 doan 2 thang nc vs nhau: \"m ma thit dc em i thi tha ho, luc i cu' tha ra no van phai ba'm m\" mia no! Ke ca la ck thi u van bo chu ko phai ngy."
-    },
-    {
         "id": 40,
         "label": -1,
         "content": "Ban can ho chung cu mini Xuan Dinh, vao o ngay, can ho hoan thien, noi that cao cap LH"
@@ -208,11 +183,6 @@
         "id": 41,
         "label": -1,
         "content": "Top nhac Hot thang 4: Vi sao:5429467, Ton tho mot tinh yeu: 51210445, Tinh yeu hoa gio: 572119. Tu choi QC soan tin"
-    },
-    {
-        "id": 42,
-        "label": 1,
-        "content": "Troi ret nam trong chan am vai. Dech muon di hoc. Nghi de."
     },
     {
         "id": 43,
@@ -253,11 +223,6 @@
         "id": 50,
         "label": -1,
         "content": "Hom nay VD mua tiep 1 cap cam ket an ca 2, co the an DB"
-    },
-    {
-        "id": 51,
-        "label": -1,
-        "content": "Hien nay co cap LO TO chac an trong ngay. De lay soan VNT gui 7393 gia 3000 dong"
     },
     {
         "id": 52,
@@ -325,11 +290,6 @@
         "content": "Gi ma vo nghia? Con dang chet di trong cai van phong day ah? Ra ngoai ma nhin troi dep that day, do be'o i.."
     },
     {
-        "id": 65,
-        "label": -1,
-        "content": "Mo ban 100.000 ve \"Bay khap Viet Nam\" gia co 10.000 dong tai www.vietjetair. com tu 21h-23h59 ngay 10,11,12. Hotline 19001886"
-    },
-    {
         "id": 66,
         "label": -1,
         "content": "BAN LA NGUOI MAY MAN! HaLinh Tang ban 5 Lan Dau Gia MIEN PHI 1 Cay Vang 9999 (17trieu) ne CoHoi DacBiet chi co Trong Hom Nay Thoi! Soan: DG GIA gui 8752"
@@ -395,11 +355,6 @@
         "content": ":)) anh dua thoi. Da mang 1 dong quan ao lai xach them nua cho nang ra."
     },
     {
-        "id": 79,
-        "label": 1,
-        "content": "the ko con dua nao doc than giong anh ah."
-    },
-    {
         "id": 80,
         "label": -1,
         "content": "Can ho doidien cho Pham Van Hai, Tan Binh chi 1,6 ty/can (da bao gom VAT) LH dia chi"
@@ -423,11 +378,6 @@
         "id": 84,
         "label": -1,
         "content": "TV 6723 Ban Muon Biet TU VI trong nam 2012 TIEN BAC-CONG DANH-TINH DUYEN & cach giai VAN nhu the nao. Soan: TV Namsinh gui 6723."
-    },
-    {
-        "id": 85,
-        "label": 1,
-        "content": "Mai di tap the duc thi goi to nhe"
     },
     {
         "id": 86,

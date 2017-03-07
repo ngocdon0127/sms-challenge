@@ -1,0 +1,52 @@
+[
+    {
+        "id": 3,
+        "label": 1,
+        "content": "Troi dep thi bao troi dep, u ko dien den muc i dau. Co 1 it nc mat roi. Hoho minh chua bi lanh cam :v"
+    },
+    {
+        "id": 7,
+        "label": 1,
+        "content": "ko phai ninh dam. tu nhien nghi ra de nt ah"
+    },
+    {
+        "id": 18,
+        "label": 1,
+        "content": "chuan bi $ hoc lai tiep"
+    },
+    {
+        "id": 33,
+        "label": 1,
+        "content": "Troi ret nam trong chan am vai. Dech muon di hoc. Nghi de."
+    },
+    {
+        "id": 39,
+        "label": 1,
+        "content": "Biet ma. U doc 1 doan 2 thang nc vs nhau: \"m ma thit dc em i thi tha ho, luc i cu' tha ra no van phai ba'm m\" mia no! Ke ca la ck thi u van bo chu ko phai ngy."
+    },
+    {
+        "id": 42,
+        "label": 1,
+        "content": "Troi ret nam trong chan am vai. Dech muon di hoc. Nghi de."
+    },
+    {
+        "id": 51,
+        "label": -1,
+        "content": "Hien nay co cap LO TO chac an trong ngay. De lay soan VNT gui 7393 gia 3000 dong"
+    },
+    {
+        "id": 65,
+        "label": -1,
+        "content": "Mo ban 100.000 ve \"Bay khap Viet Nam\" gia co 10.000 dong tai www.vietjetair. com tu 21h-23h59 ngay 10,11,12. Hotline 19001886"
+    },
+    {
+        "id": 79,
+        "label": 1,
+        "content": "the ko con dua nao doc than giong anh ah."
+    },
+    {
+        "id": 85,
+        "label": 1,
+        "content": "Mai di tap the duc thi goi to nhe"
+    }
+]
