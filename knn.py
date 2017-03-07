@@ -31,7 +31,7 @@ with open('Label.json') as raw_json:
 
 from sklearn import neighbors
 
-k_fold = 5
+k_fold = 10
 size = len(vector) / k_fold
 
 err = 0.0

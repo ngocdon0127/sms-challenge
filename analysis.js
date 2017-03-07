@@ -11,6 +11,7 @@ var KGRAM = 3; // Khai báo sau hàm tokenizer thì trong hàm tokenizer, KGRAM 
 var tokenizerFlag = 2;
 var trainingSize = 100;
 var generalize = true;
+var extraFeatures = true;
 
 function tokenizer(string) {
 	var words = [];
@@ -159,11 +160,13 @@ for(var index = 0; index < messages.length; index++){
 		arr[wordIndex[info]] = core[info];
 	}
 
-	// Number of Characters is a feature, too.
-	arr.push(extractedInfo.noOfCharacters)
+	if (extraFeatures){
+		// Number of Characters is a feature, too.
+		arr.push(extractedInfo.noOfCharacters)
 
-	// Contains 'http' or not.
-	arr.push(extractedInfo.http)
+		// Contains 'http' or not.
+		arr.push(extractedInfo.http)
+	}
 
 	Vector.push(arr);
 	Label.push(sms.label)
@@ -243,7 +246,9 @@ for(let i = 0; i < messages.length; i++){
 }
 
 console.log('trainingId: ' + trainingMessagesId.length);
+console.log(JSON.stringify(trainingMessagesId));
 console.log('testId: ' + testMessagesId.length);
+console.log(testMessagesId);
 
 //
 
@@ -253,22 +258,38 @@ console.log('testId: ' + testMessagesId.length);
 // var trainingVector = Vector.slice(0, trainingSize)
 // var trainingLabel = Label.slice(0, trainingSize)
 
-var trainingVector = Vector.filter((vector, index) => {
-	return trainingMessagesId.indexOf(index) >= 0
-})
-var trainingLabel = Label.filter((label, index) => {
-	return trainingMessagesId.indexOf(index) >= 0
-})
+// var trainingVector = Vector.filter((vector, index) => {
+// 	return trainingMessagesId.indexOf(index) >= 0
+// })
+// var trainingLabel = Label.filter((label, index) => {
+// 	return trainingMessagesId.indexOf(index) >= 0
+// })
 
-var testVector = Vector.filter((vector, index) => {
-	return testMessagesId.indexOf(index) >= 0
-})
-var testLabel = Label.filter((label, index) => {
-	return testMessagesId.indexOf(index) >= 0
-})
+// var testVector = Vector.filter((vector, index) => {
+// 	return testMessagesId.indexOf(index) >= 0
+// })
+// var testLabel = Label.filter((label, index) => {
+// 	return testMessagesId.indexOf(index) >= 0
+// })
 
-fs.writeFileSync('trainingVector.json', JSON.stringify(trainingVector, null, 2))
-fs.writeFileSync('trainingLabel.json', JSON.stringify(trainingLabel))
+var trainingVector = []
+var trainingLabel = []
+
+for(var i = 0; i < trainingMessagesId.length; i++){
+	trainingVector.push(Vector[trainingMessagesId[i]])
+	trainingLabel.push(Label[trainingMessagesId[i]])
+}
+
+var testVector = []
+var testLabel = []
+
+for(var i = 0; i < testMessagesId.length; i++){
+	testVector.push(Vector[testMessagesId[i]])
+	testLabel.push(Label[testMessagesId[i]])
+}
+
+fs.writeFileSync('Vector.json', JSON.stringify(trainingVector, null, 2))
+fs.writeFileSync('Label.json', JSON.stringify(trainingLabel))
 
 fs.writeFileSync('testVector.json', JSON.stringify(testVector, null, 2))
 fs.writeFileSync('testLabel.json', JSON.stringify(testLabel))

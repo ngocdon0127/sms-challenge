@@ -33,14 +33,14 @@ from sklearn import svm
 
 
 
-k_fold = 20
+k_fold = 50
 size = len(vector) / k_fold
 
 err = 0.0
 
 for i in range(k_fold):
 	clf = None
-	clf = svm.SVC(gamma=0.001, C=100., kernel='linear')
+	clf = svm.SVC(gamma=0.01, C=100., kernel='rbf')
 	
 	training_vector = vector[0:(i * size)] + vector[((i + 1) * size):]
 	training_label = label[0:(i * size)] + label[((i + 1) * size):]
