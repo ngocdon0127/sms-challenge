@@ -211,1692 +211,242 @@
     },
     {
         "id": 42,
-        "label": 1,
-        "content": "troi ret nam trong chan am vai. dech muon di hoc. nghi de."
-    },
-    {
-        "id": 43,
         "label": -1,
         "content": "cty chuyen cung cap binh ngam ruou sam han quoc cuc dep gia cuc re tai tp hcm. lien he dia chi"
     },
     {
-        "id": 44,
+        "id": 43,
         "label": 1,
         "content": "nam xem tao quan. lat nua thu doi di choi xem co dc ko"
     },
     {
-        "id": 45,
+        "id": 44,
         "label": -1,
         "content": "bep hong ngoai panasonic moi 100% chi 289k va tang kem 1 vi nuong. bao hanh 12 thang. lh dia chi"
     },
     {
-        "id": 46,
+        "id": 45,
         "label": -1,
         "content": "qc vms2 ma du thuong ct \"alo ngay tien day tay\" : tu 000... den 000... tu choi nhan ma du thuong, soan tc1 gui 9241"
     },
     {
-        "id": 47,
+        "id": 46,
         "label": -1,
         "content": "vui xuan: gai 1con lam xxx cuc phe tai ve xem ngay. mien phi: http://"
     },
     {
-        "id": 48,
+        "id": 47,
         "label": 1,
         "content": "cau luu them so cua trung vao cau dep trai deo kinh nhom truong ngai hen thay thi cu goi cho cau nay truoc"
     },
     {
-        "id": 49,
+        "id": 48,
         "label": 1,
         "content": "duoi 5 nguoi thi ko mo lop. h con cach la hoc lai cung k truoc thoi. cam thay qua suc thi bao luu anh thay cung kho nang ne lam.co len beo':-)"
     },
     {
-        "id": 50,
+        "id": 49,
         "label": -1,
         "content": "hom nay vd mua tiep 1 cap cam ket an ca 2, co the an db"
     },
     {
-        "id": 51,
+        "id": 50,
         "label": -1,
         "content": "hien nay co cap lo to chac an trong ngay. de lay soan vnt gui 7393 gia 3000 dong"
     },
     {
-        "id": 52,
+        "id": 51,
         "label": 1,
         "content": "con oi, u co nen gap lao i noi ro rang het moi chuyen ko?"
     },
     {
-        "id": 53,
+        "id": 52,
         "label": -1,
         "content": "lau nuong upa-upa (phong cach korea) tai 2 pham ngoc thach (cau trung tu) ha noi.chi con 127nghin nguoi buffee an thoai mai khuyen mai tu 01-09 12-2012"
     },
     {
-        "id": 54,
+        "id": 53,
         "label": 1,
         "content": "the a, bao gio the ha cau"
     },
     {
-        "id": 55,
+        "id": 54,
         "label": -1,
         "content": "(clipxxx)6 clip 18+ em myphuong voi sep(nghe phe vai) http://"
     },
     {
-        "id": 56,
+        "id": 55,
         "label": 1,
         "content": "neu lao i muon gthich lao i phai hen u chu nhi?"
     },
     {
-        "id": 57,
+        "id": 56,
         "label": -1,
         "content": "anh oi, em moi ban nham tien qua may anh, anh gui lai giup em duoc khong a! em sinh vien chang co nhieu tien, anh giup em thi tot qua."
     },
     {
-        "id": 58,
+        "id": 57,
         "label": -1,
         "content": "co ban gai dang yeu ten h xxx gui tang tb 0913 xxx mot nhac pham voi loi nhan hy vong nhan ra em qua bai hat nay"
     },
     {
-        "id": 59,
+        "id": 58,
         "label": -1,
         "content": "chuyen cung cap thep v lo da nang gia si va le lh dia chi viet cuong phat dc"
     },
     {
-        "id": 60,
+        "id": 59,
         "label": -1,
         "content": "ban bt song lap tai dtm my dinh dt 138 m2, mt 11m, da hoan thien dep 3.5 tang, co gara oto, noi that hien dai, truoc nha 12m, gan duong doan thi diem. gia 19 ty. lien he:"
     },
     {
-        "id": 61,
+        "id": 60,
         "label": -1,
         "content": "sua laptop lay tien, uy tin, hieu qua, gia re, chuyen nghiep lh: mr phong"
     },
     {
-        "id": 62,
+        "id": 61,
         "label": 1,
         "content": "mang len co 1 it thoi a? xach bao nhieu do nhu vay lai con mang them nua. sao ko mang 1 bao tai cho bo~ cong .:-)"
     },
     {
-        "id": 63,
+        "id": 62,
         "label": 1,
         "content": "hay anh len cho vien kinh te hoi chi van anh giup em voi? em so diem trac thi chi tren day moi biet."
     },
     {
-        "id": 64,
+        "id": 63,
         "label": 1,
         "content": "gi ma vo nghia? con dang chet di trong cai van phong day ah? ra ngoai ma nhin troi dep that day, do be'o i.."
     },
     {
-        "id": 65,
+        "id": 64,
         "label": -1,
         "content": "mo ban 100.000 ve \"bay khap viet nam\" gia co 10.000 dong tai www.vietjetair. com tu 21h-23h59 ngay 10,11,12. hotline 19001886"
     },
     {
-        "id": 66,
+        "id": 65,
         "label": -1,
         "content": "ban la nguoi may man! halinh tang ban 5 lan dau gia mien phi 1 cay vang 9999 (17trieu) ne cohoi dacbiet chi co trong hom nay thoi! soan: dg gia gui 8752"
     },
     {
-        "id": 67,
+        "id": 66,
         "label": 1,
         "content": "em nghi the thoi. dung la ba gia. anh lam roi mat cai the ra vao cty roi. h chang biet lam the nao ca."
     },
     {
-        "id": 68,
+        "id": 67,
         "label": -1,
         "content": "so huu vong eo thon gon san chac la muc tieu khong chi rieng chi em phai dep. dai massage giam gia dac biet chi con"
     },
     {
-        "id": 69,
+        "id": 68,
         "label": 1,
         "content": "be ngoai thi the thoi. em phai lon hon a 2 tuoi la it. vay thoi, cmsn hut"
     },
     {
-        "id": 70,
+        "id": 69,
         "label": 1,
         "content": "anh xem ds co ai duoi 3 ko?"
     },
     {
-        "id": 71,
+        "id": 70,
         "label": -1,
         "content": "son chat luong cao, giao hang tan noi, gia ca canh tranh. lh dia chi"
     },
     {
-        "id": 72,
+        "id": 71,
         "label": -1,
         "content": "real madrid - barcelona hay soan tin: bd rma gui 8779 de chien thang ket qua cho: bd rma gui 8579. tai xiu sang nhat: bd tx gui 8779"
     },
     {
-        "id": 73,
+        "id": 72,
         "label": 1,
         "content": "chuc cau nam moi vui ve gap nhieu dieu may man va thanh cong trong su nghiep"
     },
     {
-        "id": 74,
+        "id": 73,
         "label": -1,
         "content": "ban da dang ki tu choi nhan tin qc! tin nhan quang cao se khong duoc gui toi so thue bao cua ban nua! chuc ban 1 ngay vui ve,tot lanh!"
     },
     {
-        "id": 75,
+        "id": 74,
         "label": -1,
         "content": "gia soc: nhan dip 30/4 1/5 giam gia cuc soc cho sim so dep tu 23/4 3/5 co hoi co 1 khong 2 lien he giao dich"
     },
     {
-        "id": 76,
+        "id": 75,
         "label": -1,
         "content": "chung cu ban gia goc 16,2 trieu dong/m2, thanh toan 9 dot, nam ngay tren mat duong pham van dong, tu liem, cach cau giay 15 phut di xe may. quy khach vui long lien he de duoc tu van mien phi"
     },
     {
-        "id": 77,
+        "id": 76,
         "label": 1,
         "content": "cuoc song ngay cang kho khan"
     },
     {
-        "id": 78,
+        "id": 77,
         "label": 1,
         "content": ":)) anh dua thoi. da mang 1 dong quan ao lai xach them nua cho nang ra."
     },
     {
-        "id": 79,
+        "id": 78,
         "label": 1,
         "content": "the ko con dua nao doc than giong anh ah."
     },
     {
-        "id": 80,
+        "id": 79,
         "label": -1,
         "content": "can ho doidien cho pham van hai, tan binh chi 1,6 ty/can (da bao gom vat) lh dia chi"
     },
     {
-        "id": 81,
+        "id": 80,
         "label": -1,
         "content": "tu viettel tang 50% gia tri the nap cho thue bao tra truoc. so tien cong them su dung cho goi va nhan tin ngoai mang noi mang"
     },
     {
-        "id": 82,
+        "id": 81,
         "label": -1,
         "content": "du an dolphin plaza, 28 tran binh, cau giay , ha noi. thiet ke rat hien dai cua singapore, hon 6000 m2 san vuon, cay xanh mat dat, hon 3000 m2 lam khu sinh thai tai cot 17,5m, be boi cho nguoi lon, be boi cho tre em, san tam nang ngay"
     },
     {
-        "id": 83,
+        "id": 82,
         "label": -1,
         "content": "wappush: sexy>>emgai thoi ken nhin rat phe(13phut ban dep) http://"
     },
     {
-        "id": 84,
+        "id": 83,
         "label": -1,
         "content": "tv 6723 ban muon biet tu vi trong nam 2012 tien bac-cong danh-tinh duyen & cach giai van nhu the nao. soan: tv namsinh gui 6723."
     },
     {
-        "id": 85,
+        "id": 84,
         "label": 1,
         "content": "mai di tap the duc thi goi to nhe"
     },
     {
-        "id": 86,
+        "id": 85,
         "label": -1,
         "content": "ban la nguoi may man halinh tang ban 5 lan daugia mien phi 1 cay vang 9999 (17trieu) ne cohoi dac biet chi co trong hom nay thoi soan: dg gia gui 8752"
     },
     {
-        "id": 87,
+        "id": 86,
         "label": 1,
         "content": "quen mat chua rua da mang cho a. e vua di ve."
     },
     {
-        "id": 88,
+        "id": 87,
         "label": -1,
         "content": "ban laptop cu, laptop core i5, laptop core i3, tem zin gia re lh:"
     },
     {
-        "id": 89,
+        "id": 88,
         "label": 1,
         "content": "the ngay duong la luc nao. hoa ra a sinh sau em may thang lien"
     },
     {
-        "id": 90,
+        "id": 89,
         "label": -1,
         "content": "cung cap gian gia gia ke shop thoi trang gia goc va nhan thiet ke, gia cong shop gia re lien he dia chi"
-    },
-    {
-        "id": 91,
-        "label": 1,
-        "content": "the co bao luu cung anh ko. trong tg bao luu van dang ky hoc lai thoai mai.chi ay bao the"
-    },
-    {
-        "id": 92,
-        "label": 1,
-        "content": "hom nay di hoc co vui khong ?"
-    },
-    {
-        "id": 93,
-        "label": 1,
-        "content": "thoi duoc roi. ma anh di lam thi chang onl dau ma biet. ve toi kp face thi lay gi giai tri?"
-    },
-    {
-        "id": 94,
-        "label": 1,
-        "content": ":( biet the nho em mang cho 2 it ve giat h lai phai di gat quan ao"
-    },
-    {
-        "id": 95,
-        "label": -1,
-        "content": "ban da dang ki tu choi nhan tin qc! tin nhan quang cao se khong duoc gui toi so thue bao cua ban nua!chuc ban 1 ngay vui ve,tot lanh!"
-    },
-    {
-        "id": 96,
-        "label": 1,
-        "content": "u ch? qua d?y l?y t?m 6h kem 10"
-    },
-    {
-        "id": 97,
-        "label": -1,
-        "content": "cty dinh thai - chuyen sx cac loai dien tro dot nong dung trong cong nghiep va dan dung. lh dc"
-    },
-    {
-        "id": 98,
-        "label": -1,
-        "content": "tv 6723 ban muon biet tu vi trong nam 2012 tien bac cong danh tinh duyen & cach giai van nhu the nao. soan: tv namsinh gui 6723."
-    },
-    {
-        "id": 99,
-        "label": 1,
-        "content": "c cung biet so co a"
-    },
-    {
-        "id": 100,
-        "label": -1,
-        "content": "quy khach da su dung het luu luong data mien phi hang thang. he thong se tinh cuoc truy cap 25d/50kb. vui long lh 198 (100d/p) de duoc tu van goi cuoc data phu hop. tran trong."
-    },
-    {
-        "id": 101,
-        "label": -1,
-        "content": "quy khach co 59344 dong trong tai khoan."
-    },
-    {
-        "id": 102,
-        "label": -1,
-        "content": "tai khoan goc cua quy khach hien con duoi 1000d, quy khach vui long nap them tien vao tai khoan de khong bi gian doan dich vu. xin cam on!"
-    },
-    {
-        "id": 103,
-        "label": -1,
-        "content": "quy khach co 20011 dong trong tai khoan."
-    },
-    {
-        "id": 104,
-        "label": -1,
-        "content": "quy khach co 62383 dong trong tai khoan."
-    },
-    {
-        "id": 105,
-        "label": -1,
-        "content": "quy khach co 10000 dong trong tai khoan."
-    },
-    {
-        "id": 106,
-        "label": -1,
-        "content": "quy khach vua nap the thanh cong va duoc khuyen mai 5% gia tri the nap theo ct cham soc khach hang lau nam. bam *102# de kiem tra tai khoan. tran trong."
-    },
-    {
-        "id": 107,
-        "label": -1,
-        "content": "quy khach co 50002 dong trong tai khoan."
-    },
-    {
-        "id": 108,
-        "label": -1,
-        "content": "quy khach vua nap the thanh cong va duoc khuyen mai 50% gia tri the nap. bam *102# de kiem tra tai khoan khuyen mai. tran trong."
-    },
-    {
-        "id": 109,
-        "label": -1,
-        "content": "quy khach co 5013 dong trong tai khoan."
-    },
-    {
-        "id": 110,
-        "label": -1,
-        "content": "dv ung tien *911# tru 5500 dong so tien quy khach da ung ngay 18/08/2016 (bao gom tien ung va 10% phi dv). tran trong."
-    },
-    {
-        "id": 111,
-        "label": -1,
-        "content": "quy khach co 14515 dong trong tai khoan."
-    },
-    {
-        "id": 112,
-        "label": -1,
-        "content": "quy khach co 15391 dong trong tai khoan."
-    },
-    {
-        "id": 113,
-        "label": -1,
-        "content": "quy khach co 5008 dong trong tai khoan."
-    },
-    {
-        "id": 114,
-        "label": -1,
-        "content": "quy khach co 4592 dong trong tai khoan."
-    },
-    {
-        "id": 115,
-        "label": -1,
-        "content": "dv ung tien *911# tru 5500 dong so tien quy khach da ung ngay 26/08/2016 (bao gom tien ung va 10% phi dv). tran trong."
-    },
-    {
-        "id": 116,
-        "label": -1,
-        "content": "quy khach co 5007 dong trong tai khoan."
-    },
-    {
-        "id": 117,
-        "label": -1,
-        "content": "dv ung tien *911# tru 5500 dong so tien quy khach da ung ngay 30/08/2016 (bao gom tien ung va 10% phi dv). tran trong."
-    },
-    {
-        "id": 118,
-        "label": -1,
-        "content": "quy khach co 46844 dong trong tai khoan."
-    },
-    {
-        "id": 119,
-        "label": -1,
-        "content": "km=18564d.km noi mang= 20000d.km noi mang hang thang=30000d.km noi mang = 5000d, sd truoc 02/10/2016.km noi mang= 14946 giay.tk sms noi mang = 250sms.free gprs4= 752028kb."
-    },
-    {
-        "id": 120,
-        "label": -1,
-        "content": "km=18311d.km noi mang= 20000d.km noi mang hang thang=30000d.km noi mang = 5000d, sd truoc 02/10/2016.km noi mang= 14491 giay.tk sms noi mang = 243sms.free gprs4= 752028kb."
-    },
-    {
-        "id": 121,
-        "label": -1,
-        "content": "km=14232d.km noi mang= 20000d.km noi mang hang thang=30000d.km noi mang = 5000d, sd truoc 02/10/2016.km noi mang= 11273 giay.tk sms noi mang = 213sms.free gprs4= 752028kb."
-    },
-    {
-        "id": 122,
-        "label": -1,
-        "content": "quy khach co 38982 dong trong tai khoan."
-    },
-    {
-        "id": 123,
-        "label": -1,
-        "content": "viettel tb: dv data se duoc gia han tu 0-5h 03/10/2016. so du trong tai khoan goc cua quy khach hien nho hon so tien can gia han dv. quy khach vui long kiem tra tai khoan de dam bao dv khong bi gian doan. cuoc tb goi sv35 la 35.000d/30 ngay. lh 198 (mien phi). tran trong."
-    },
-    {
-        "id": 124,
-        "label": -1,
-        "content": "quy khach co 52710 dong trong tai khoan."
-    },
-    {
-        "id": 125,
-        "label": -1,
-        "content": "quy khach da duoc cong 25000d vao tkkm, 25000d vao tkkm noi mang. quy khach con 2 the nap duoc khuyen mai 100% truoc ngay 12/02/2017. bam *102# de kiem tra. tran trong cam on."
-    },
-    {
-        "id": 126,
-        "label": -1,
-        "content": "quy khach co 58651 dong trong tai khoan."
-    },
-    {
-        "id": 127,
-        "label": -1,
-        "content": "quy khach co 61899 dong trong tai khoan."
-    },
-    {
-        "id": 128,
-        "label": -1,
-        "content": "goi sv35 da duoc gia han thanh cong. cuoc phi 35.000d/30 ngay, quy khach co 1,2gb data luu luong toc do cao, het 1,2gb truy cap toc do thap; cuoc goi noi mang, ngoai mang: 690d/phut. de kiem tra luu luong, soan kttk gui 191. de huy dv, soan huy gui 191. lh 198 (mien phi). tran trong."
-    },
-    {
-        "id": 129,
-        "label": -1,
-        "content": "quy khach co 58446d trong tai khoan. de biet cac ct cham soc khach hang danh rieng cho quy khach, vui long bam goi *098#. chi tiet lh 198 (mien phi). tran trong."
-    },
-    {
-        "id": 130,
-        "label": -1,
-        "content": "quy khach da duoc cong 25000d vao tkkm, 25000d vao tkkm noi mang theo ctkm nap the danh cho tb kich hoat truoc ngay 1/11/2016. bam *102# de kiem tra. tran trong cam on."
-    },
-    {
-        "id": 131,
-        "label": -1,
-        "content": "viettel tb: dv data se duoc gia han tu 0-5h 01/01/2017. quy khach vui long kiem tra tai khoan de dam bao dv khong bi gian doan. cuoc tb goi sv35 la 35.000d/30 ngay. lh 198 (mien phi). tran trong."
-    },
-    {
-        "id": 132,
-        "label": -1,
-        "content": "viettel tb: dv data se duoc gia han tu 0-5h 31/01/2017. so du trong tai khoan goc cua quy khach hien nho hon so tien can gia han dv. quy khach vui long kiem tra tai khoan de dam bao dv khong bi gian doan. cuoc tb goi sv35 la 35.000d/30 ngay. lh 198 (mien phi). tran trong."
-    },
-    {
-        "id": 133,
-        "label": -1,
-        "content": "quy khach co 46398d trong tai khoan. de biet cac ct cham soc khach hang danh rieng cho quy khach, vui long bam goi *098#. chi tiet lh 198 (mien phi). tran trong."
-    },
-    {
-        "id": 134,
-        "label": -1,
-        "content": "quy khach co 20004d trong tai khoan. de biet cac ct cham soc khach hang danh rieng cho quy khach, vui long bam goi *098#. chi tiet lh 198 (mien phi). tran trong."
-    },
-    {
-        "id": 135,
-        "label": -1,
-        "content": "quy khach co 67212d trong tai khoan. de biet cac ct cham soc khach hang danh rieng cho quy khach, vui long bam goi *098#. chi tiet lh 198 (mien phi). tran trong."
-    },
-    {
-        "id": 136,
-        "label": -1,
-        "content": "viettel tb: dv data se duoc gia han tu 0-5h 02/03/2017. quy khach vui long kiem tra tai khoan de dam bao dv khong bi gian doan. cuoc tb goi sv35 la 35.000d/30 ngay. lh 198 (mien phi). tran trong."
-    },
-    {
-        "id": 137,
-        "label": -1,
-        "content": "chao mung quy khach den voi dich vu tra truoc cua viettel. tai khoan cua quy khach la 0 dong.quy khach thao tac *101#, an ok de kiem tra tai khoan. de kiem tra thong tin chu thue bao, quy khach vui long truy cap http://vietteltelecom.vn hoac soan tin tttb gui 1414 (mien phi). xin cam on!"
-    },
-    {
-        "id": 138,
-        "label": -1,
-        "content": "[qc] soan dk1 gui 5115 de duoc mien phi hoan toan cuoc data khi nghe nhac tren http://nhaccuatui.com chi voi 1000d/ngay. sau km, phi dv 2000d/ngay. ctkm den 31/5/2016. tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 139,
-        "label": -1,
-        "content": "(qc) quy khach vua goi den tb su dung dv autosms - gui tin nhan bao ban tu dong khi khong the nghe may. dang ky, soan dk gui 9126 (5000d/thang). lh 198 (100d/p). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 140,
-        "label": -1,
-        "content": "[qc] de khong bi lam phien boi nhung cuoc goi va tin nhan khong mong muon, moi quy khach soan dk gui 909 dang ky dv allblocking (7.000d/thang). chi tiet soan hd gui 909. tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 141,
-        "label": -1,
-        "content": "[qc] soan go1 gui 5055 tham gia tra loi cau hoi tich diem voi co hoi nhan thuong len toi 100 trieu dong. quy khach con duoc cap nhat thong tin nong nhat, nhanh nhat ve euro 2016 (ket qua, lich thi dau, bang xep hang...). phi dv: 2.000d/ngay. tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 142,
-        "label": -1,
-        "content": "[qc] mien phi truy cap data 3g khi xem phim khong gioi han voi dich vu phim onbox. dang ky, soan box gui 5005 hoac truy cap http://phim.onbox.vn . phi dv 10.000d/tuan. tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 143,
-        "label": -1,
-        "content": "[qc] uu dai giam them 10% tren hoa don cua nha hang net hue cho thue bao viettel. hay truy cap http://mgift.vn de nhan ma uu dai. tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 144,
-        "label": -1,
-        "content": "[qc] mien hoan toan cuoc truy cap 3g khi xem khong gioi han hang nghin bo phim hanh dong, kinh di, bom tan tu dich vu phim onbox. dang ky, soan box gui 5005 hoac truy cap http://phim.onbox.vn. phi dv 10.000d/tuan. tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 145,
-        "label": -1,
-        "content": "[qc] 11h hom nay (12/7), dv mgift - viettel tang hon 2000 qua hoan toan mien phi gom: the cao 50.000d, cap ve xem phim galaxy cinema, phieu lam toc zio hair, vien toc sky... truy cap http://mgift.vn/gift va lam theo huong dan de nhan qua. tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 146,
-        "label": -1,
-        "content": "[qc] de mien phi truy cap 3g khi nghe nhac, xem video tren di dong tai http://keeng.vn - soan ke gui 5005. gia km tuan dau chi 7.000d, sau km 10.000d/tuan. tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 147,
-        "label": -1,
-        "content": "[qc] chi voi 10.000d/tuan thoa suc theo doi moi hoat dong cua cac ngoi sao hang dau han quoc va viet nam voi dv xem video truc tuyen vlive. hay soan vlive7 gui 5885 de xem toan bo noi dung va mien phi truy cap 3g. chi tiet tai http://goicuocvlive.vn. lh 198 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 148,
-        "label": -1,
-        "content": "[qc] uu dai tu viettel: thuong thuc kho phim bom tan hollywood chi co tai http://mclip.vn/clip?t=phim voi dv mclip. dang ky, soan kmp gui 9120. phi dv 1.000d/ngay (km 500d/ngay trong 3 ngay cho lan dau dang ky). lh 18008098 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 149,
-        "label": -1,
-        "content": "(qc) nghe, tai nhac thoai mai khong can lo ve cuoc truy cap 3g: soan im1 gui 9225 de tham gia va thuong thuc dv imuzik plus tai http://imuzik.vn . phi dv 2.000d/ngay, gia han theo ngay. lh 18008098 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 150,
-        "label": -1,
-        "content": "[qc] bi quyet xem video, nghe nhac khong can dang ky 3g voi dv kmax: soan kmax gui 5005. phi dv 5.000d/tuan, gia han theo tuan. lh 18008098 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 151,
-        "label": -1,
-        "content": "[qc] mien phi gui tin nhan noi mang khong gioi han tren ung dung mocha. truy cap http://mocha.com.vn/sms de cai dat ung dung. ct ap dung cho tb nhan duoc tin nhan. lh 18008098 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 152,
-        "label": -1,
-        "content": "[qc] nghe nhac, xem video khong lo toc do cham, tai nhac khong gioi han va mien 100% cuoc truy cap 3g. dang ky, soan ke gui 5005. phi dv 10.000d/tuan. chi tiet goi 197 bam phim 55 (0d). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 153,
-        "label": -1,
-        "content": "(qc)chuc mung quy khach duoc tham gia ctkm giam gia 50% cuoc thue bao tuan dau tien dv nhac cho imuzik, tai khong gioi han toan bo bai hat hot nhat hien nay voi gia 0d. soan dk7 gui 1221 de tham gia. cuoc km 2.500d/tuan dau tien. sau km, phi 5.000d/tuan, gia han hang tuan. tu choi qc, soan tc4 gui 199. lh 18008098 (mien phi)."
-    },
-    {
-        "id": 154,
-        "label": -1,
-        "content": "[qc] nghe nhac, xem video khong lo toc do cham, tai nhac khong gioi han va mien cuoc truy cap 3g. dang ky, soan ke gui 5005. phi dv 10.000d/tuan, gia han hang tuan. chi tiet goi 197 bam phim 42 (0d). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 155,
-        "label": -1,
-        "content": "[qc] giang sinh cung nguoi la: hay de ung dung mocha gioi thieu cho ban mot nguoi khac gioi, lua tuoi phu hop o ngay gan nha ban de di choi cung trong dip giang sinh. truy cap http://mocha.com.vn/sms de cai dat ung dung va tham gia chuong trinh. lh 18008098 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 156,
-        "label": -1,
-        "content": "[qc] kenh truyen hinh qpvn phat song chuong trinh \"sao nhap ngu\" voi hanh trinh nhap ngu khac nghiet cua 3 hotboy: huynh anh, thanh duy, truong nam thanh vao luc 09h00 ngay 7/1/2017. kinh moi quy vi don xem. lh 18008119 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 157,
-        "label": -1,
-        "content": "[qc] dv chuyen tien tu tai khoan dien thoai - ishare: tang han muc chuyen tien toi da len den 50.000d/lan chuyen va 300.000d/ngay. phi dv chi tu 2.000d/lan chuyen. de chuyen tien, bam goi *136# va lam theo huong dan. chi tiet goi 197 bam phim 52 (0d). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 158,
-        "label": -1,
-        "content": "(qc)dv mca giup ban biet cac cuoc goi nho khi tat may, het pin. soan dk gui 193 de su dung (5500/thang). lh 198 (mien phi). tu choi qc, soan tc4 gui 199. tran trong."
-    },
-    {
-        "id": 159,
-        "label": -1,
-        "content": "(qc) xem tivi, bong da, phim hd voi hang nghin noi dung hap dan, khong gioi han luu luong toc do cao 3g tren dv mobitv. truy cap http://mobitv.vn/b/v.html?utm_source=9090 hoac soan dk gui 1331 de dang ky. phi dv 3.000d/ngay (ngay dau tien chi 1.500d neu tb dang ky moi). lh 198 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 160,
-        "label": -1,
-        "content": "(qc) nghe nhac, xem video khong lo toc do cham, mien cuoc truy cap data 3g tren keeng.vn. dang ky, soan max gui 5005. phi dv 5.000d/tuan, gia han hang tuan. lh 18008098 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 161,
-        "label": -1,
-        "content": "[qc] khong can wifi - nghe nhac, xem video, tai nhac khong gioi han, mien cuoc truy cap data 3g toc do cao tai http://keeng.vn . dang ky dv keeng vip, soan ke gui 5005. cuoc phi 10.000d/tuan, gia han hang tuan. chi tiet goi 197 bam phim 31 (0d). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 162,
-        "label": -1,
-        "content": "(qc)dv mca giup ban biet cac cuoc goi - tin nhan nho khi tat may, het pin. soan dk gui 193 de su dung (5500/thang). lh 198 (mien phi). tu choi qc, soan tc4 gui 199. tran trong."
-    },
-    {
-        "id": 163,
-        "label": -1,
-        "content": "(qc)xem hang ngan phim tet hot tren dv mobitv, khong gioi han luu luong data 3g. soan dkp gui 1331 hoac truy cap http://mobitv.vn/p de dang ky phi dv 2.000d/ngay, gia han hang ngay, (1.000d/ngay dau tien cho tb dang ky lan dau). lh 18008098 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 164,
-        "label": -1,
-        "content": "(qc) de khong bo lo cac cuoc goi - tin nhan tu dong nghiep, ban be, soan dk gui 193 (5.500d/thang, gia han hang thang). lh 198(mien phi).tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 165,
-        "label": -1,
-        "content": "(qc) quy khach vua nap 20000d thanh cong va duoc cong 100 diem de tham gia dv nap the may man voi co hoi trung 100.000d moi ngay, soan dkb gui 800 (2.000d/ngay, gia han hang ngay) hoac dkc gui 800 (3.000d/lan, choi trong ngay). lh 198 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 166,
-        "label": -1,
-        "content": "[qc] valentine cung nguoi la: hay de ung dung mocha gioi thieu cho ban mot nguoi khac gioi, lua tuoi phu hop o ngay gan nha ban de di choi cung trong dip le tinh yeu. truy cap http://mocha.com.vn/sms de cai dat ung dung va tham gia chuong trinh. ct ap dung cho tb nhan duoc tin nhan trong ngay hom nay. chi tiet goi 197 bam phim 45 (0d). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 167,
-        "label": -1,
-        "content": "(qc) xem phim hot, video dac sac mien phi truy cap data 3g toc do cao voi dv myclip. dang ky, soan m gui 9062 hoac truy cap http://myclip.viettel.vn/1. phi dv 3.000d/ngay, gia han hang ngay. lh 18008098 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 168,
-        "label": -1,
-        "content": "(qc) xem phim chieu rap, phim chau a dac sac... khong gioi han data toc do cao tren http://5dmax.vn cung dv cong phim 5dmax. dang ky, soan dk7 gui 5005. phi dv 12.000d/tuan, gia han hang tuan. chi tiet lh 18008098 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 169,
-        "label": -1,
-        "content": "(qc) de chan cuoc goi va tin nhan khong mong muon, moi quy khach soan dk gui 909 dang ky dv allblocking (7.000d/thang). chi tiet soan hd gui 909. tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 170,
-        "label": -1,
-        "content": "[qc] viettel tiep tuc mien phi gui tin nhan sms noi mang qua ung dung mocha. truy cap http://mocha.com.vn/sms de cai dat ung dung va huong uu dai. ct ap dung cho tb nhan duoc tin nhan. chi tiet goi 197 bam phim 45 (0d). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 171,
-        "label": -1,
-        "content": "[qc] khong can wifi, khong mat phi data 3g van duoc thuong thuc hang nghin phim bom tan, video noi bat hang ngay... tren di dong voi 3g toc do cao tai http://onbox.vn . dang ky, soan obx3 gui 5005 (3.000d/ngay). chi tiet goi 197 bam phim 53 (0d). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 172,
-        "label": -1,
-        "content": "(qc)xem hang nghin video the thao, hai huoc, ca nhac... voi noi dung hap dan, dac sac, cap nhat moi nhat, khong gioi han luu luong toc do cao 3g tren dv mobitv. truy cap http://mobitv.vn/video hoac soan dkc gui 1331 de dang ky. phi dv 2.500d/ngay (ngay dau tien chi 1.250d neu tb dang ky moi). lh 198 (mien phi). tu choi qc, soan tc4 gui 199."
-    },
-    {
-        "id": 173,
-        "label": -1,
-        "content": "[qc] km goi misv65: 65.000d co ngay 4,5gb luu luong toc do cao su dung trong 30 ngay. tham gia, soan misv65 gui 191 hoac truy cap http://3g.viettel.vn/p/misv65/8 truoc 1/7. ct ap dung cho tb nhan duoc tin nhan. chi tiet bam goi *533*17#. tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 174,
-        "label": -1,
-        "content": "[qc] goi cuoc 3g moi tang 2,5 lan dung luong - dung cang nhieu cang re: co ngay 1,5gb chi voi 70.000d/30 ngay. het 1,5gb, tiep tuc su dung voi gia 35.000d/gb cho 4gb dau tien, tu gb thu 5 con 20.000d/gb (khong phai soan tin mua them). dac biet: luon luon dung internet toc do cao, bao luu luu luong khi gia han dung ngay (toi da 1gb). dang ky, soan mimax1.5s gui 191 hoac truy cap http://3g.viettel.vn/p/mimax15s/8 . chi tiet bam goi *533*139#. tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 175,
-        "label": -1,
-        "content": "[qc] km goi misv65: 65.000d co ngay 4,5gb luu luong toc do cao su dung trong 30 ngay. tham gia, soan misv65 gui 191 hoac truy cap http://3g.viettel.vn/p/misv65/8 truoc 1/8. ct ap dung cho tb nhan duoc tin nhan. chi tiet bam goi *533*5#. tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 176,
-        "label": -1,
-        "content": "[qc] km goi mimax5n: co ngay 60mb toc do cao su dung den 24h cung ngay chi voi 5.000d, het 60mb truy cap toc do thap. dang ky, soan mimax5n gui 191 hoac truy cap http://3g.viettel.vn/p/mimax5n/8 . chi tiet goi 197 bam phim 44 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 177,
-        "label": -1,
-        "content": "[qc] km goi mi10n: co ngay 300mb su dung den 24h chi voi 10.000d. dv gia han hang ngay. dang ky, soan mi10n gui 191 hoac truy cap http://3g.viettel.vn/p/mi10n/8 . chi tiet goi 197 bam phim 31 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 178,
-        "label": -1,
-        "content": "[qc] tu 5-31/7 tai viettelstore toan quoc, laptop lenovo ideapad 100-14iby gia chi 4.500.000d, laptop acer core i3 gia chi 6.990.000d. ct ap dung cho thue bao nhan duoc tin nhan. lh 18008123. tu choi, soan tc3 gui 199."
-    },
-    {
-        "id": 179,
-        "label": -1,
-        "content": "[qc] tu 1-15/8 tai viettel store: mua samsung galaxy j5/j7, quy khach duoc tang sim bigbang-j co ngay 1,1 trieu dong trong tai khoan, mien phi 14.000 phut goi noi mang, 14gb data, 1.400 tin nhan noi mang trong 1 nam. chi tiet tai www.viettelstore.vn hoac lh 18008123. tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 180,
-        "label": -1,
-        "content": "[qc] co ngay 1,5gb chi voi 70.000d/30 ngay. het 1,5gb, tiep tuc su dung voi gia 35.000d/gb cho 4gb dau tien, tu gb thu 5 con 20.000d/gb (khong phai soan tin mua them). dac biet: luon luon dung internet toc do cao, bao luu luu luong khi gia han dung ngay (toi da 1gb). dang ky, soan mimax1.5s gui 191. chi tiet bam goi *533*125#. tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 181,
-        "label": -1,
-        "content": "[qc] khuyen mai giam ngay 1 trieu dong cho hoc sinh, sinh vien khi mua laptop tai viettel store tren toan quoc. ct ap dung den 31/8. chi tiet truy cap www.viettelstore.vn hoac lh 18008123. tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 182,
-        "label": -1,
-        "content": "[qc] uu dai goi mt7: co 1,2gb su dung den 24h ngay dang ky chi voi 7.000d/ngay. chi tiet truy cap http://3g.viettel.vn/p/mt7/8 . lh 18008168 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 183,
-        "label": -1,
-        "content": "[qc] mien 100% phi lap dat tron bo internet cap quang va truyen hinh so viettel sieu re, sieu toc do tai ha noi. cuoc thue bao chi tu 260.000d/thang, ap dung trong 24 thang. de biet chi tiet va lap dat, lh 18008168 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 184,
-        "label": -1,
-        "content": "[qc] mien phi lap dat internet cap quang viettel cho gia dinh tai ha noi trong thang 10. cuoc thue bao chi tu 240.000d/thang. thanh toan cuoc truoc 6 thang, tang them 1 thang mien phi. chi tiet truy cap https://shop.viettel.vn/cdbr/fast25 hoac lh 18008168 (mien phi). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 185,
-        "label": -1,
-        "content": "[qc] km goi misv65: 65.000d co ngay 4,5gb luu luong toc do cao su dung trong 30 ngay. tham gia, soan misv65 gui 191 hoac bam goi *098#. ct ap dung cho tb nhan duoc tin nhan. chi tiet goi 197 bam phim 34 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 186,
-        "label": -1,
-        "content": "[qc] ung dung mien phi my viettel giup quy khach kiem soat cuoc phat sinh, cap nhat cac ctkm moi nhat, tra cuu dv gia tri gia tang ngay tren dien thoai di dong. de cai dat, truy cap http://viettel.vn/app . chi tiet goi 197 bam phim 14 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 187,
-        "label": -1,
-        "content": "[qc] co ngay 1,5gb toc do cao su dung trong 30 ngay chi voi 70.000d khi dang ky goi mimax1.5. het 1,5gb ngung truy cap. dang ky, soan mimax1.5 gui 191. mua them: 35.000d/gb cho 4gb dau tien va 20.000d/gb cho cac gb tiep theo. bao luu luu luong khi gia han dung ngay (toi da 1gb). chi tiet bam goi *098# hoac 18008168 (mien phi). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 188,
-        "label": -1,
-        "content": "[qc] co ngay 1,5gb toc do cao su dung trong 30 ngay chi voi 70.000d khi dang ky goi mimax1.5. het 1,5gb ngung truy cap. mua them: 35.000d/gb cho 4gb dau tien va 20.000d/gb cho cac gb tiep theo. bao luu luu luong khi gia han dung ngay (toi da 1gb). dang ky, lh 18008168 (mien phi) hoac bam goi *098#. tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 189,
-        "label": -1,
-        "content": "[qc] chon sim so dep viettel gia chi tu 70.000d/so tai https://shop.viettel.vn/sim-so. chi tiet lh 18008168 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 190,
-        "label": -1,
-        "content": "[qc] tra cuu chi tiet cuoc nhanh chong, dang ky cac dv gtgt, cap nhat khuyen mai moi ngay voi myviettel. moi quy khach truy cap http://viettel.vn/app de cai dat va su dung mien phi ung dung myviettel. chi tiet goi 197 bam phim 45 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 191,
-        "label": -1,
-        "content": "[qc] giam phi lap dat tron bo internet cap quang va truyen hinh so viettel sieu re, sieu toc do tai ha noi. cuoc thue bao chi tu 260.000d/thang, ap dung trong 24 thang. chi tiet truy cap http://shop.viettel.vn/cdbr/fast-20-flexi hoac lh 18008168 (mien phi). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 192,
-        "label": -1,
-        "content": "[qc] giam phi lap dat tron bo internet cap quang va truyen hinh so viettel sieu re, sieu toc do tai ha noi. cuoc thue bao chi tu 260.000d/thang, ap dung trong 24 thang. chi tiet lh 18008168 (mien phi). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 193,
-        "label": -1,
-        "content": "[qc] duy nhat trong ngay 02/12/2016: tang 2 thang cuoc thue bao goi giai tri khi lap dat tron bo internet va truyen hinh viettel, dang ky tai https://shop.viettel.vn. chi tiet lh 18008168 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 194,
-        "label": -1,
-        "content": "[qc] chuong trinh giam gia dac biet online friday: giam den 49% khi mua dien thoai, may tinh, phu kien. dien thoai samsung galaxy s7 edge (mau bac va mau den) giam ngay 4 trieu dong va giam 1 trieu dong cho may iphone 7 (128gb). ct tai viettel store toan quoc tu 01-04/12. lh 18008123 hoac truy cap https://goo.gl/1ryuve. tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 195,
-        "label": -1,
-        "content": "[qc] chuong trinh giam gia dac biet online friday duy nhat ngay 2/12: km toi da 50% gia nhieu san pham tai https://shop.viettel.vn. chi tiet lh 18008168 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 196,
-        "label": -1,
-        "content": "[qc] tham gia ct dau gia nguoc - co hoi so huu ngay sim so dep viettel gia 0d tai https://shop.viettel.vn/daugia . lh 18008168 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 197,
-        "label": -1,
-        "content": "[qc] km goi mi30: co ngay 200mb su dung trong 30 ngay chi voi 30.000d. het 200mb truy cap tinh cuoc 25d/50kb. dang ky, soan mi30 gui 191 hoac bam goi *098#. chi tiet goi 197 bam phim 51 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 198,
-        "label": -1,
-        "content": "[qc] km goi mimax: co ngay 600mb su dung trong 30 ngay chi voi 70.000d. het 600mb truy cap toc do thong thuong. dang ky, soan mimax gui 191 hoac bam goi *098#. chi tiet goi 197 bam phim 51 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 199,
-        "label": -1,
-        "content": "[qc] co hoi so huu sim so dep 0981.66.11.88 gia 0d khi tham gia ct dau gia nguoc tai https://shop.viettel.vn/daugia . chi tiet lh 18008168 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 200,
-        "label": -1,
-        "content": "[qc] co hoi trung ngay iphone 7 plus 128gb khi mua bat ky san pham nao tren http://shop.viettel.vn . chi tiet lh 18008168 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 201,
-        "label": -1,
-        "content": "[qc] tu 15-21/12, dat mua samsung galaxy j5 prime nhan ngay qua tang tri gia 1 trieu hoac tra gop lai suat 0%. ctkm tai viettel store tren toan quoc. chi tiet truy cap https://goo.gl/uxo9xl hoac lh 18008123 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 202,
-        "label": -1,
-        "content": "[qc] tu 7-21/12, dat mua samsung galaxy j5 prime nhan ngay qua tang tri gia 1 trieu hoac tra gop lai suat 0%. ctkm tai viettel store tren toan quoc. chi tiet truy cap https://goo.gl/uxo9xl hoac lh 18008123 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 203,
-        "label": -1,
-        "content": "[qc] km goi mimax: co ngay 600mb su dung trong 30 ngay voi 70.000d. het 600mb truy cap toc do thong thuong. dang ky, soan mimax gui 191 hoac bam goi *098#. chi tiet goi 197 bam phim 51 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 204,
-        "label": -1,
-        "content": "[qc] iphone 6s chinh hang gia soc chi tu 11.299.000d. chuong trinh chi ap dung tren trang ban hang online cua viettel https://shop.viettel.vn nhan dip khai truong (so luong co han). lh 18008168 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 205,
-        "label": -1,
-        "content": "[qc] km tai ha noi nhan dip nam moi 2017: co hoi trung xe may piaggio liberty abs khi hoa mang tb tra sau, kich hoat tb tra truoc den ngay 31/1/2017. chi tiet goi 197 bam phim 24 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 206,
-        "label": -1,
-        "content": "[qc] duy nhat 7/1, giam ngay 700.000d khi mua samsung galaxy j5 prime va co them co hoi trung 1 chi vang. ctkm tai viettel store tren toan quoc. chi tiet truy cap https://goo.gl/9xliks hoac lh 18008123 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 207,
-        "label": -1,
-        "content": "[qc] tu 1/1/2017, quy khach su dung dv goi va nhan tin quoc te toi cac thue bao mang metfone (campuchia) va unitel (lao) gia cuoc tuong duong nhu trong nuoc: cuoc thoai giam 44% chi con 2.000d/p, cuoc tin nhan giam 80% con 500d/sms. chi tiet goi 197 bam phim 14 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 208,
-        "label": -1,
-        "content": "[qc] nhan sim 4g - qua tang bat ngo: tu 12/01 - 12/03, khach hang hoa mang moi hoac nang cap doi sim 4g viettel se nhan duoc co hoi trung xe honda sh, iphone 7 va hang tram qua tang gia tri khac. chi tiet goi 197 bam phim 12 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 209,
-        "label": -1,
-        "content": "[qc] km goi mimax cho tb hoc sinh, sinh vien: co ngay 600mb su dung trong 30 ngay chi voi 50.000d. het 600mb truy cap toc do thong thuong. dang ky, soan mimax gui 191 hoac bam goi *098#. chi tiet goi 197 bam phim 51 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 210,
-        "label": -1,
-        "content": "[qc] co hoi so huu sim so dep hoan toan mien phi khi tham gia binh chon so dien thoai dep nhat tren http://vietteltelecom.vn/minigame . chi tiet goi 197 bam phim 44 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 211,
-        "label": -1,
-        "content": "[qc] uu dai goi mimax cho tb hoc sinh, sinh vien: co ngay 600mb su dung trong 30 ngay chi voi 50.000d. het 600mb truy cap toc do thong thuong. dang ky, soan mimax gui 191 hoac bam goi *098#. chi tiet goi 197 bam phim 51 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 212,
-        "label": -1,
-        "content": "[qc] viettel mo ban them hon 10.000 sim so dep gia chi tu 50.000d/sim tai https://shop.viettel.vn/sim-so . chi tiet goi 197 bam phim 41 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 213,
-        "label": -1,
-        "content": "[qc] tu 1/1/2017, quy khach su dung dv chuyen vung quoc te tai mang metfone-campuchia va unitel-lao se duoc huong gia cuoc uu dai: mien phi nhan cuoc goi; goi va nhan tin den thue bao mang unitel-lao/metfone-campuchia/viettel-vietnam cuoc goi giam 13 lan con 2.000d/p, cuoc tin nhan giam 10 lan con 500d/sms; cuoc truy cap data 200d/mb. chi tiet goi 197 bam phim 15 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 214,
-        "label": -1,
-        "content": "[qc] chon sim so dep viettel tra truoc gia chi 50.000d tai https://shop.viettel.vn/sim-so. chi tiet goi 197 bam phim 41 (0d). tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 215,
-        "label": -1,
-        "content": "[qc] moi quy khach goi 1068 (2.500d/p) de tang nhung mon qua y nghia danh cho mot nua yeu thuong cua minh. tu choi qc, soan tc3 gui 199."
-    },
-    {
-        "id": 216,
-        "label": 1,
-        "content": "cho ti nha"
-    },
-    {
-        "id": 217,
-        "label": 1,
-        "content": "moi phut 5k"
-    },
-    {
-        "id": 218,
-        "label": 1,
-        "content": "5 lin :))))"
-    },
-    {
-        "id": 219,
-        "label": 1,
-        "content": "dai ca luon :))₫"
-    },
-    {
-        "id": 220,
-        "label": 1,
-        "content": ":))))) he he he he. doi thanh ong trum cung dc"
-    },
-    {
-        "id": 221,
-        "label": 1,
-        "content": "ong truong :)))"
-    },
-    {
-        "id": 222,
-        "label": 1,
-        "content": "01686820744"
-    },
-    {
-        "id": 223,
-        "label": 1,
-        "content": "som ti nua thi dang ngoi room ko ra duoc nha :))))"
-    },
-    {
-        "id": 224,
-        "label": 1,
-        "content": ":))) the xong r ha. :v ngoan nam ngoan nam"
-    },
-    {
-        "id": 225,
-        "label": 1,
-        "content": "bo may"
-    },
-    {
-        "id": 226,
-        "label": 1,
-        "content": "anh kean"
-    },
-    {
-        "id": 227,
-        "label": 1,
-        "content": "a ko com nha nha:))"
-    },
-    {
-        "id": 228,
-        "label": 1,
-        "content": ":v mai thoai. t len an vs em tang tren r :3 he he he"
-    },
-    {
-        "id": 229,
-        "label": 1,
-        "content": "ah bó dj váng kaj la con ỏ nhà hu dón ngay :)))"
-    },
-    {
-        "id": 230,
-        "label": 1,
-        "content": "322a le trong tán"
-    },
-    {
-        "id": 231,
-        "label": 1,
-        "content": "bo ra vs cac con day :)))"
-    },
-    {
-        "id": 232,
-        "label": 1,
-        "content": "co ve r ms di hoc chu?"
-    },
-    {
-        "id": 233,
-        "label": 1,
-        "content": "co chu :)))"
-    },
-    {
-        "id": 234,
-        "label": 1,
-        "content": "thay giao kho tinh ko.sang chui phat :)))"
-    },
-    {
-        "id": 235,
-        "label": 1,
-        "content": "cu sang de. :3"
-    },
-    {
-        "id": 236,
-        "label": 1,
-        "content": "thoi chi giao dang cuong no.kaka.ti may gio ve thi doi anh,bung luon"
-    },
-    {
-        "id": 237,
-        "label": 1,
-        "content": "ku nau com di nha.a ve muon ti"
-    },
-    {
-        "id": 238,
-        "label": 1,
-        "content": "om :v ve rua bat"
-    },
-    {
-        "id": 239,
-        "label": 1,
-        "content": "the la ve an la chu rua bat ho :))))"
-    },
-    {
-        "id": 240,
-        "label": 1,
-        "content": "01653010729 di me gui so xong r sao? co phai ve luon ko hay dc dung doi :))"
-    },
-    {
-        "id": 241,
-        "label": 1,
-        "content": "thoi vuef di mua t may dieu cung dc"
-    },
-    {
-        "id": 242,
-        "label": 1,
-        "content": "ti cu an di nha.a ko com nha"
-    },
-    {
-        "id": 243,
-        "label": 1,
-        "content": "di luon di dung vac xac ve nua >.<"
-    },
-    {
-        "id": 244,
-        "label": 1,
-        "content": "con cai nha mat ray :((("
-    },
-    {
-        "id": 245,
-        "label": 1,
-        "content": "ve chua.ra a15 com de"
-    },
-    {
-        "id": 246,
-        "label": 1,
-        "content": "chua :v chac 12h ms tan"
-    },
-    {
-        "id": 247,
-        "label": 1,
-        "content": "the a ve da.ti tinh sau"
-    },
-    {
-        "id": 248,
-        "label": 1,
-        "content": "ti di cho nha"
-    },
-    {
-        "id": 249,
-        "label": 1,
-        "content": "ok"
-    },
-    {
-        "id": 250,
-        "label": 1,
-        "content": "ti cu an di nha .a di choi ti :))"
-    },
-    {
-        "id": 251,
-        "label": 1,
-        "content": "ty tan hoc ra a15 hoc nhe :v"
-    },
-    {
-        "id": 252,
-        "label": 1,
-        "content": "lai mat nuoc .ti di bus ra nha"
-    },
-    {
-        "id": 253,
-        "label": 1,
-        "content": "yep"
-    },
-    {
-        "id": 254,
-        "label": 1,
-        "content": "ko phan an trong a15 dau nha dung mua phieu"
-    },
-    {
-        "id": 255,
-        "label": 1,
-        "content": "can't talk now, will call you later."
-    },
-    {
-        "id": 256,
-        "label": 1,
-        "content": "toi ko mam nha ahihi"
-    },
-    {
-        "id": 257,
-        "label": 1,
-        "content": "nam ms chuc gia dinh manh khoe. chuc con zai hoc gioi, sang nam nay thit dc con gai nha nguoi ta."
-    },
-    {
-        "id": 258,
-        "label": 1,
-        "content": "ngan duoi tu quan ao :))"
-    },
-    {
-        "id": 259,
-        "label": 1,
-        "content": "o thay r :v giau kinh vl :)))"
-    },
-    {
-        "id": 260,
-        "label": 1,
-        "content": "12h tan di an com gia dinh de :v"
-    },
-    {
-        "id": 261,
-        "label": 1,
-        "content": "ngon a vua ms ts phong."
-    },
-    {
-        "id": 262,
-        "label": 1,
-        "content": "phong nao?"
-    },
-    {
-        "id": 263,
-        "label": 1,
-        "content": "nha tro :)) nay uong tra da ben xay dung chan xong ms ve , dt de balo"
-    },
-    {
-        "id": 264,
-        "label": 1,
-        "content": ":v the toi. ty an gi :v"
-    },
-    {
-        "id": 265,
-        "label": 1,
-        "content": "xoi xay dung de :)"
-    },
-    {
-        "id": 266,
-        "label": 1,
-        "content": ":v om ty t di mua"
-    },
-    {
-        "id": 267,
-        "label": 1,
-        "content": "bun de to hoang de"
-    },
-    {
-        "id": 268,
-        "label": 1,
-        "content": "bau thang bom nua"
-    },
-    {
-        "id": 269,
-        "label": 1,
-        "content": "chu nt luon di a ko co so moi cua n"
-    },
-    {
-        "id": 270,
-        "label": 1,
-        "content": "di cho roi nha"
-    },
-    {
-        "id": 271,
-        "label": 1,
-        "content": "uhm con ml nay eo nghe"
-    },
-    {
-        "id": 272,
-        "label": 1,
-        "content": "alo ti ve mua xoi nha. a ve tu 10h roi :))"
-    },
-    {
-        "id": 273,
-        "label": 1,
-        "content": "toi a ko com nha nha"
-    },
-    {
-        "id": 274,
-        "label": 1,
-        "content": "toi com nha ko day"
-    },
-    {
-        "id": 275,
-        "label": 1,
-        "content": "chac ko :))"
-    },
-    {
-        "id": 276,
-        "label": 1,
-        "content": "lai con chac ko nua. ko nau nha."
-    },
-    {
-        "id": 277,
-        "label": 1,
-        "content": "qua nt zalo de im lang :))) the ve thung a"
-    },
-    {
-        "id": 278,
-        "label": 1,
-        "content": "ti ve mua xoi nha"
-    },
-    {
-        "id": 279,
-        "label": 1,
-        "content": "bao gio chu ve the"
-    },
-    {
-        "id": 280,
-        "label": 1,
-        "content": "ko biet.dang chuyen nha cho con bom. co chia khoa day r. di dau cu di"
-    },
-    {
-        "id": 281,
-        "label": 1,
-        "content": "uhm a hoi the, so ti chu ve ko co chia"
-    },
-    {
-        "id": 282,
-        "label": 1,
-        "content": ":v toi ko an nha nha :3"
-    },
-    {
-        "id": 283,
-        "label": 1,
-        "content": "an tan gia chu :))"
-    },
-    {
-        "id": 284,
-        "label": 1,
-        "content": "anh day anh day nho a ak :)))"
-    },
-    {
-        "id": 285,
-        "label": 1,
-        "content": "thoi thoi sang an luon kem danh rang roi. kaka"
-    },
-    {
-        "id": 286,
-        "label": 1,
-        "content": "com kte de :))"
-    },
-    {
-        "id": 287,
-        "label": 1,
-        "content": "com gd de. ty di vs con hola nua"
-    },
-    {
-        "id": 288,
-        "label": 1,
-        "content": "t ve nha cmnr :))"
-    },
-    {
-        "id": 289,
-        "label": 1,
-        "content": "thi kieu gi cha phai ra. tinh di bo ra kt an a"
-    },
-    {
-        "id": 290,
-        "label": 1,
-        "content": "di bo cho nhanh"
-    },
-    {
-        "id": 291,
-        "label": 1,
-        "content": "toi a ko com nha"
-    },
-    {
-        "id": 292,
-        "label": 1,
-        "content": "yep."
-    },
-    {
-        "id": 293,
-        "label": 1,
-        "content": "trua ko dop nha :v"
-    },
-    {
-        "id": 294,
-        "label": 1,
-        "content": "om :))"
-    },
-    {
-        "id": 295,
-        "label": 1,
-        "content": "mua them chai nua di , anh uong cmn nua chai roi :)))"
-    },
-    {
-        "id": 296,
-        "label": 1,
-        "content": "ty ve mua com na :***"
-    },
-    {
-        "id": 297,
-        "label": 1,
-        "content": "cam com di na na na :)))"
-    },
-    {
-        "id": 298,
-        "label": 1,
-        "content": "cho nao the"
-    },
-    {
-        "id": 299,
-        "label": 1,
-        "content": "trua ko com nha :)"
-    },
-    {
-        "id": 300,
-        "label": 1,
-        "content": "det. cu doi m ve goi day an com 😂😂😂"
-    },
-    {
-        "id": 301,
-        "label": 1,
-        "content": "ac nay ve lay do thay dang ngu :))₫"
-    },
-    {
-        "id": 302,
-        "label": 1,
-        "content": "co luon, hoa dai a :))"
-    },
-    {
-        "id": 303,
-        "label": 1,
-        "content": ":)) luon. y la ko com nha"
-    },
-    {
-        "id": 304,
-        "label": 1,
-        "content": "thi y t la tk hoa dai m con gi. hay phuong dua di giai ma giac mo :)))"
-    },
-    {
-        "id": 305,
-        "label": 1,
-        "content": "xuong co cau ngay"
-    },
-    {
-        "id": 306,
-        "label": 1,
-        "content": "chu len chua"
-    },
-    {
-        "id": 307,
-        "label": 1,
-        "content": "sang mai ms len co :v"
-    },
-    {
-        "id": 308,
-        "label": 1,
-        "content": "lai phai choi het lo ruoc roi :))"
-    },
-    {
-        "id": 309,
-        "label": 1,
-        "content": "lo"
-    },
-    {
-        "id": 310,
-        "label": 1,
-        "content": "dang o lop. di an a :))"
-    },
-    {
-        "id": 311,
-        "label": 1,
-        "content": "ko. tuong o nha cam ho cai balo"
-    },
-    {
-        "id": 312,
-        "label": 1,
-        "content": "thuyet trinh ko can may a :)"
-    },
-    {
-        "id": 313,
-        "label": 1,
-        "content": "chieu di phuong tien gi day :))"
-    },
-    {
-        "id": 314,
-        "label": 1,
-        "content": "toi ko com nha"
-    },
-    {
-        "id": 315,
-        "label": 1,
-        "content": "o ki"
-    },
-    {
-        "id": 316,
-        "label": 1,
-        "content": "may gio chu tan"
-    },
-    {
-        "id": 317,
-        "label": 1,
-        "content": "tam 12h :)))"
-    },
-    {
-        "id": 318,
-        "label": 1,
-        "content": "the ko bao com a"
-    },
-    {
-        "id": 319,
-        "label": 1,
-        "content": "cha bao :v"
-    },
-    {
-        "id": 320,
-        "label": 1,
-        "content": "the choc ve doi a o nga tu cho dong tam roi di nha"
-    },
-    {
-        "id": 321,
-        "label": 1,
-        "content": "ua :v"
-    },
-    {
-        "id": 322,
-        "label": 1,
-        "content": "ve chua"
-    },
-    {
-        "id": 323,
-        "label": 1,
-        "content": "hoa dang bao ve. bao gio ve t goi :v"
-    },
-    {
-        "id": 324,
-        "label": 1,
-        "content": "sang nay chu co di hoc ko"
-    },
-    {
-        "id": 325,
-        "label": 1,
-        "content": "co dang hoc. :v 12h tan"
-    },
-    {
-        "id": 326,
-        "label": 1,
-        "content": "the choc qua nha don anh nha. he"
-    },
-    {
-        "id": 327,
-        "label": 1,
-        "content": "quay tay vua vua sang mai 8h30 con di lam con nha"
-    },
-    {
-        "id": 328,
-        "label": 1,
-        "content": "d'. cu phai vat kiet :v"
-    },
-    {
-        "id": 329,
-        "label": 1,
-        "content": "vua vua thoi de con nha nguoi ta con on thi. ong nhu ho vo thi ai chiu noi :))))"
-    },
-    {
-        "id": 330,
-        "label": 1,
-        "content": "he he toi ko dop. ma toi co di an man ko?"
-    },
-    {
-        "id": 331,
-        "label": 1,
-        "content": "ai ten la ko o day. tuong thang con sang"
-    },
-    {
-        "id": 332,
-        "label": 1,
-        "content": "cuc mut. an thi vac mom sang chu :)))"
-    },
-    {
-        "id": 333,
-        "label": 1,
-        "content": "may gio nhi de con an com trc :))"
-    },
-    {
-        "id": 334,
-        "label": 1,
-        "content": "d' biet. goi hoi no xem the nao. t di an da :3"
-    },
-    {
-        "id": 335,
-        "label": 1,
-        "content": "the tam 8h cho thoai mai"
-    },
-    {
-        "id": 336,
-        "label": 1,
-        "content": "ah de choc co ban gi ko ra don thay voi :))"
-    },
-    {
-        "id": 337,
-        "label": 1,
-        "content": "bat thang hoa ra don. chieu co viec r vs ca xe dang o cho no. :v"
-    },
-    {
-        "id": 338,
-        "label": 1,
-        "content": "uhm tuong 2 tk dang thong nhau :))"
-    },
-    {
-        "id": 339,
-        "label": 1,
-        "content": "anh cho em muon xe may di luon ti nha :))"
-    },
-    {
-        "id": 340,
-        "label": 1,
-        "content": "toi nay ko com nha"
-    },
-    {
-        "id": 341,
-        "label": 1,
-        "content": ":v dong vl. ko lanh chanh thi het me cho ngoi r."
-    },
-    {
-        "id": 342,
-        "label": 1,
-        "content": "y thuc kem :)) quay lai don phong di roi ve :))"
-    },
-    {
-        "id": 343,
-        "label": 1,
-        "content": "alo alo"
-    },
-    {
-        "id": 344,
-        "label": 1,
-        "content": "098 9069152. xung anh vs em cho no than thien con nha :))"
-    },
-    {
-        "id": 345,
-        "label": 1,
-        "content": ":)) bo con cho de song"
-    },
-    {
-        "id": 346,
-        "label": 1,
-        "content": "the thi phai cho ho bao hieu a e minh :))"
-    },
-    {
-        "id": 347,
-        "label": 1,
-        "content": "the bon kia no chuyen chua"
-    },
-    {
-        "id": 348,
-        "label": 1,
-        "content": "toi moi ban giao. :v"
-    },
-    {
-        "id": 349,
-        "label": 1,
-        "content": "lam viec nhu nha nuoc ey nhi, the tam hon 5h co ban gi ko ra don cau :))"
-    },
-    {
-        "id": 350,
-        "label": 1,
-        "content": ":v tam do dang chuan bi di choi. he"
-    },
-    {
-        "id": 351,
-        "label": 1,
-        "content": "choi cai luon, o nha toi con di ban giao :v"
-    },
-    {
-        "id": 352,
-        "label": 1,
-        "content": "thieu lin quan. linh sex len r"
-    },
-    {
-        "id": 353,
-        "label": 1,
-        "content": "the a sex con o phong ko? toi di ko mang qua ve bo hiep :)))"
-    },
-    {
-        "id": 354,
-        "label": 1,
-        "content": "con. dang tinh toi kich m ra hoang mai ngu cho rong :)))"
-    },
-    {
-        "id": 355,
-        "label": 1,
-        "content": "kich cai con cc. con thich bo dieu chi be cu teo di cho:)))"
-    },
-    {
-        "id": 356,
-        "label": 1,
-        "content": "trong dot dieu chinh ma huy hoc phan thi co mat tien hoc phi ko nhi"
-    },
-    {
-        "id": 357,
-        "label": 1,
-        "content": "chac la ko. :v huy cai gi do"
-    },
-    {
-        "id": 358,
-        "label": 1,
-        "content": "huy big data :)) nhu cai luon, mon day hoc sang nay co phai vui ko :))"
-    },
-    {
-        "id": 359,
-        "label": 1,
-        "content": ":v wtf m co dk big data dau ma huy"
-    },
-    {
-        "id": 360,
-        "label": 1,
-        "content": "gi day"
-    },
-    {
-        "id": 361,
-        "label": 1,
-        "content": "5r tan a? tan som thi loang quang di choi di nha :)))"
-    },
-    {
-        "id": 362,
-        "label": 1,
-        "content": "loang thang cha m, toi tay ue cho phong bo :)))"
-    },
-    {
-        "id": 363,
-        "label": 1,
-        "content": "cc. doc tn thi goi lai ngay nhe"
-    },
-    {
-        "id": 364,
-        "label": 1,
-        "content": "toi ko com nha, chuan bi xien 8h anh trai sang thu :))"
-    },
-    {
-        "id": 365,
-        "label": 1,
-        "content": "du. bon no di dau tiet r ay. m ko ve ma thu tien :v"
-    },
-    {
-        "id": 366,
-        "label": 1,
-        "content": "linh nop cho chu roi dung ko, a cho ha ban vay nua, hoa dau roi?"
-    },
-    {
-        "id": 367,
-        "label": 1,
-        "content": "con ngoan choc bo xuong choi nha :)))"
-    },
-    {
-        "id": 368,
-        "label": 1,
-        "content": "nay dang goi bi sap"
-    },
-    {
-        "id": 369,
-        "label": 1,
-        "content": "vl ngoi dau day? tang tren a"
-    },
-    {
-        "id": 370,
-        "label": 1,
-        "content": "tang 20, nay co 4 thanh nien moi. qua nay choi php kho mau roi :))"
-    },
-    {
-        "id": 371,
-        "label": 1,
-        "content": "ngoi may bay phan luc a :))"
-    },
-    {
-        "id": 372,
-        "label": 1,
-        "content": "o nha de y may thanh nien lam bien quang cao nha, no an trom sit la chet day :)))"
-    },
-    {
-        "id": 373,
-        "label": 1,
-        "content": "a bao sao thay tieng dong tren tang :))"
-    },
-    {
-        "id": 374,
-        "label": 1,
-        "content": "cu tien hanh thoi. he"
-    },
-    {
-        "id": 375,
-        "label": 1,
-        "content": ":v vl vl vl. alo"
-    },
-    {
-        "id": 376,
-        "label": 1,
-        "content": "ko mua. nay quen ca bao thuc :)))"
-    },
-    {
-        "id": 377,
-        "label": 1,
-        "content": "len tang bo bao cai nay"
-    },
-    {
-        "id": 378,
-        "label": 1,
-        "content": "m diec a :)))"
-    },
-    {
-        "id": 379,
-        "label": 1,
-        "content": "ciec :v"
     }
 ]

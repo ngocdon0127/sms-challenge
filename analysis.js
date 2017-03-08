@@ -104,6 +104,8 @@ for(let sms of messages){
 var dicLen = Object.keys(dic).length
 console.log('dicLen: ' + dicLen);
 
+fs.writeFileSync('dic.json', JSON.stringify(dic, null, 4))
+
 var wordIndex = {};
 var wordMap = Object.keys(dic);
 wordMap.map((key, index) => {
@@ -166,7 +168,13 @@ for(var index = 0; index < messages.length; index++){
 	}
 
 	for(var info in core){
-		arr[wordIndex[info]] = core[info];
+		if (info in wordIndex){
+			arr[wordIndex[info]] = core[info];
+		}
+		else {
+			console.log(info);
+		}
+		
 	}
 
 	if (extraFeatures){
@@ -323,3 +331,93 @@ var testMessages = messages.filter((sms) => {
 
 fs.writeFileSync('trainingSMS.txt', JSON.stringify(trainingMessages, null, 4));
 fs.writeFileSync('testSMS.txt', JSON.stringify(testMessages, null, 4));
+
+
+// Predict
+var predictVector = [];
+var predicSMS = JSON.parse(fs.readFileSync('predict.json'));
+
+for(var index = 0; index < predicSMS.length; index++){
+	// continue;
+	var sms = predicSMS[index]
+	var arr = [];
+	for(var i = 0; i < dicLen; i++){
+		arr.push(0);
+	}
+
+	var extractedInfo = extract(sms.content);
+	var core = extractedInfo.core;
+	if (extractedInfo.http == 1){
+		// console.log(sms.id);
+		// console.log(sms.content);
+	}
+
+	for(var info in core){
+		if (info in wordIndex){
+			arr[wordIndex[info]] = core[info];
+		}
+		else {
+			// console.log(info);
+		}
+		
+	}
+
+	if (extraFeatures){
+		// Number of Characters is a feature, too.
+		arr.push(extractedInfo.noOfCharacters)
+
+		// Contains 'http' or not.
+		arr.push(extractedInfo.http)
+
+		// Contains 'qc' or not.
+		arr.push(extractedInfo.qc)
+	}
+
+	predictVector.push(arr);
+}
+
+if (generalize){
+	// var mean = Vector.slice(0, 1);
+	// for(var i = 1; i < Vector.length; i++){
+	// 	var vector = Vector[i];
+	// 	for(var j = 0; j < vector.length; j++){
+	// 		mean[j] += vector[j];
+	// 	}
+	// }
+	// for(var i = 0; i < mean.length; i++){
+	// 	mean[i] /= Vector.length;
+	// }
+
+	var max = [];
+	for(var i = 0; i < predictVector[0].length; i++){
+		max.push(0);
+	}
+
+	// console.log('max: ' + max.length);
+
+	for(var i = 0; i < predictVector.length; i++){
+		var vector = predictVector[i];
+		for(var j = 0; j < vector.length; j++){
+			max[j] = (max[j] < vector[j]) ? vector[j] : max[j];
+		}
+	}
+
+	// console.log(max);
+
+	for(var i = 0; i < predictVector.length; i++){
+		for(var j = 0; j < predictVector[i].length; j++){
+			if (max[j] != 0){
+				predictVector[i][j] /= max[j]
+			}
+			else {
+				predictVector[i][j] = 0;
+			}
+			// if (max[j] == 0){
+			// 	console.log('dmm');
+			// }
+		}
+	}
+
+}
+
+fs.writeFileSync('predictVector.json', JSON.stringify(predictVector, null, 2));

@@ -1,4 +1,27 @@
-var fs = require('fs');
+var fs = require('fs')
+
+var config = JSON.parse(fs.readFileSync('config.json'));
+
+var trainingRawFiles = config.originalTrainingSMS;
+
+deduplicate(trainingRawFiles)
+
+function deduplicate(files) {
+	for(let file of files){
+		var data = fs.readFileSync(file.fileName).toString().replace(/\n+/g, '\r').replace(/ {2,}/g, ' ').split('\r')
+		console.log('===== ' + file.fileName + ' =====');
+		console.log('before: ' + data.length + ' sms');
+		var dic = {}
+		for(let d of data){
+			dic[d] = 1
+		}
+		data = Object.keys(dic)
+		console.log('after: ' + data.length + ' sms');
+		// console.log(data);
+		fs.writeFileSync(file.fileName, data.join('\r'));
+
+	}
+}
 
 String.prototype.myTrim = function() {
 	var s = this.trim();
@@ -19,33 +42,23 @@ String.prototype.vi2en = function() {
 	return str;
 }
 
-var config = JSON.parse(fs.readFileSync('config.json'));
+var rawData = ''
 
 var onlyLowerCase = config.onlyLowerCase;
 var extraTrainingSMS = config.extraTrainingSMS;
 
-var fs = require('fs');
-
-var rawData = fs.readFileSync('train.txt').toString();
-// var rawData = ''
+for(let file of config.originalTrainingSMS){
+	rawData += '\r';
+	var sms_ = fs.readFileSync(file.fileName).toString();
+	sms_ = sms_.replace(/\n+/g, '\r');
+	rawData += sms_;
+}
 
 if (extraTrainingSMS){
-	var files = [
-		{
-			fileName: 'spam.195.txt'
-		},
-		{
-			fileName: 'spam.ViettelDV.txt'
-		},
-		{
-			fileName: 'spam.ViettelQC.txt'
-		},
-		{
-			fileName: 'ham.kean.txt'
-		}
-	]
+	var files = config.extraSMS;
+	deduplicate(files)
 	for(let file of files){
-		rawData += '\r'
+		rawData += '\r';
 		var sms_ = fs.readFileSync(file.fileName).toString();
 		// console.log(sms_);
 		sms_ = sms_.replace(/\n+/g, '\r');
@@ -108,3 +121,31 @@ d.map((element, index) => {
 // console.log(data.length)
 
 fs.writeFileSync('training.txt', JSON.stringify(data, null, 4))
+
+var predictRawSMS = ''
+
+for(let file of config.predictSMS){
+	predictRawSMS += '\r';
+	
+	var data = fs.readFileSync(file.fileName).toString().replace(/\n+/g, '\r').replace(/ {2,}/g, ' ');
+	if (onlyLowerCase){
+		data = data.toLowerCase();
+	}
+	data = data.vi2en();
+	predictRawSMS += data;
+}
+
+var predictSMS = predictRawSMS.split('\r').filter((sms, index) => {
+	return sms.length > 0
+})
+
+data = []
+
+predictSMS.map((sms, index) => {
+	data.push({
+		id: index,
+		content: sms
+	})
+})
+
+fs.writeFileSync('predict.json', JSON.stringify(data, null, 4))

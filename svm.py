@@ -15,6 +15,7 @@ with open('Vector.json') as raw_json:
 	vector = json.load(raw_json)
 with open('Label.json') as raw_json:
 	label = json.load(raw_json)
+
 # with open('testVector.json') as raw_json:
 # 	test_vector = json.load(raw_json)
 # with open('testLabel.json') as raw_json:
@@ -61,4 +62,23 @@ for i in range(k_fold):
 
 	# print 'fold %d: length %d, score %f' % (i, len(test_vector), score)
 
+print '\n\n==================== SVM ====================\n\n'
 print '%d folds, %d vectors in each fold: average score = %f' % (k_fold, size, err / k_fold)
+
+clf = svm.SVC(gamma=0.01, C=100., kernel='rbf')
+clf.fit(vector, label)
+
+with open('predictVector.json') as raw_json:
+	test_vector = json.load(raw_json)
+
+result = clf.predict(test_vector)
+
+predict_sms = []
+
+with open('predict.json') as raw_json:
+	predict_sms = json.load(raw_json)
+
+for i in range(len(result)):
+	print '%d %s' % (result[i], predict_sms[i]['content'])
+
+print '\n\n==================== SVM ====================\n\n'
