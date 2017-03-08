@@ -41,7 +41,7 @@ err = 0.0
 
 for i in range(k_fold):
 	clf = None
-	clf = svm.SVC(gamma=0.01, C=100., kernel='rbf')
+	clf = svm.SVC(gamma=0.01, C=100., kernel='sigmoid')
 	
 	training_vector = vector[0:(i * size)] + vector[((i + 1) * size):]
 	training_label = label[0:(i * size)] + label[((i + 1) * size):]
@@ -63,7 +63,6 @@ for i in range(k_fold):
 	# print 'fold %d: length %d, score %f' % (i, len(test_vector), score)
 
 print '\n\n==================== SVM ====================\n\n'
-print '%d folds, %d vectors in each fold: average score = %f' % (k_fold, size, err / k_fold)
 
 clf = svm.SVC(gamma=0.01, C=100., kernel='rbf')
 clf.fit(vector, label)
@@ -80,5 +79,5 @@ with open('predict.json') as raw_json:
 
 for i in range(len(result)):
 	print '%d %s' % (result[i], predict_sms[i]['content'])
-
+print '%d folds, %d vectors in each fold: average score = %f' % (k_fold, size, err / k_fold)
 print '\n\n==================== SVM ====================\n\n'

@@ -56,7 +56,7 @@ for i in range(k_fold):
 	# print 'fold %d: length %d, score %f' % (i, len(test_vector), score)
 
 print '\n\n==================== KNN ====================\n\n'
-print '%d folds, %d vectors in each fold: average score = %f' % (k_fold, size, err / k_fold)
+
 
 knn = neighbors.KNeighborsClassifier(n_neighbors=10, weights='distance')
 knn.fit(vector, label)
@@ -73,5 +73,5 @@ with open('predict.json') as raw_json:
 
 for i in range(len(result)):
 	print '%d %s' % (result[i], predict_sms[i]['content'])
-
+print '%d folds, %d vectors in each fold: average score = %f' % (k_fold, size, err / k_fold)
 print '\n\n==================== KNN ====================\n\n'
