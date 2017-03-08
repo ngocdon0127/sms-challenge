@@ -33,7 +33,7 @@ from sklearn import svm
 
 
 
-k_fold = 50
+k_fold = 10
 size = len(vector) / k_fold
 
 err = 0.0
@@ -59,6 +59,6 @@ for i in range(k_fold):
 
 	err += score
 
-	print 'fold %d: score %f' % (i, score)
+	# print 'fold %d: length %d, score %f' % (i, len(test_vector), score)
 
-print 'average in %d fold: %f' % (k_fold, err / k_fold)
+print '%d folds, %d vectors in each fold: average score = %f' % (k_fold, size, err / k_fold)

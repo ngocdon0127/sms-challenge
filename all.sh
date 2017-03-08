@@ -1,0 +1,1 @@
+node preprocess.js && node analysis.js && python knn.py && python svm.py

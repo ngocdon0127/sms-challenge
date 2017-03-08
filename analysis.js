@@ -7,11 +7,13 @@ var spam = {}
 var ham = {}
 var dic = {}
 
-var KGRAM = 3; // Khai báo sau hàm tokenizer thì trong hàm tokenizer, KGRAM = 0 => ko extract dc gram nào :))
-var tokenizerFlag = 2;
-var trainingSize = 100;
-var generalize = true;
-var extraFeatures = true;
+var config = JSON.parse(fs.readFileSync('config.json'));
+// console.log(config);
+
+var KGRAM = config.KGRAM; // Khai báo sau hàm tokenizer thì trong hàm tokenizer, KGRAM = 0 => ko extract dc gram nào :))
+var tokenizerFlag = config.tokenizerFlag;
+var generalize = config.generalize;
+var extraFeatures = config.extraFeatures;
 
 function tokenizer(string) {
 	var words = [];
@@ -129,10 +131,17 @@ function extract(sms) {
 	if (sms.indexOf('http') >= 0){
 		http = 1;
 	}
+
+	var qc = 0;
+	if (sms.indexOf('qc') >= 0){
+		qc = 1;
+	}
+
 	return {
 		core: result,
 		noOfCharacters: sms.length,
-		http: http
+		http: http,
+		qc: qc
 	}
 }
 
@@ -152,8 +161,8 @@ for(var index = 0; index < messages.length; index++){
 	var extractedInfo = extract(sms.content);
 	var core = extractedInfo.core;
 	if (extractedInfo.http == 1){
-		console.log(sms.id);
-		console.log(sms.content);
+		// console.log(sms.id);
+		// console.log(sms.content);
 	}
 
 	for(var info in core){
@@ -166,14 +175,17 @@ for(var index = 0; index < messages.length; index++){
 
 		// Contains 'http' or not.
 		arr.push(extractedInfo.http)
+
+		// Contains 'qc' or not.
+		arr.push(extractedInfo.qc)
 	}
 
 	Vector.push(arr);
 	Label.push(sms.label)
 }
 
-console.log('Vector: ' + Vector.length);
-console.log('Vector[0]: ' + Vector[0].length);
+console.log('Vector: ' + Vector.length + ' rows');
+console.log('Vector[0]: ' + Vector[0].length + ' features');
 // console.log('Label: ' + Label.length);
 
 if (generalize){
@@ -193,7 +205,7 @@ if (generalize){
 		max.push(0);
 	}
 
-	console.log('max: ' + max.length);
+	// console.log('max: ' + max.length);
 
 	for(var i = 0; i < Vector.length; i++){
 		var vector = Vector[i];
@@ -220,6 +232,7 @@ if (generalize){
 
 }
 
+var trainingSize = Vector.length;
 var trainingMessagesId = []
 var testMessagesId = []
 
@@ -233,7 +246,7 @@ var testMessagesId = []
 // }
 
 while (trainingMessagesId.length < trainingSize){
-	var id = Math.floor(Math.random() * 100)
+	var id = Math.floor(Math.random() * trainingSize)
 	if (trainingMessagesId.indexOf(id) < 0){
 		trainingMessagesId.push(id);
 	}
@@ -246,9 +259,9 @@ for(let i = 0; i < messages.length; i++){
 }
 
 console.log('trainingId: ' + trainingMessagesId.length);
-console.log(JSON.stringify(trainingMessagesId));
+// console.log(JSON.stringify(trainingMessagesId));
 console.log('testId: ' + testMessagesId.length);
-console.log(testMessagesId);
+// console.log(testMessagesId);
 
 //
 
@@ -294,9 +307,9 @@ fs.writeFileSync('Label.json', JSON.stringify(trainingLabel))
 fs.writeFileSync('testVector.json', JSON.stringify(testVector, null, 2))
 fs.writeFileSync('testLabel.json', JSON.stringify(testLabel))
 
-console.log(trainingVector.length);
+// console.log(trainingVector.length);
 
-console.log(trainingLabel.length);
+// console.log(trainingLabel.length);
 
 
 
