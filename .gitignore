@@ -1,3 +1,6 @@
 *.json
 Slides Thay Phuc
 *.pdf
+*.pkl
+*.txt
+!train.txt

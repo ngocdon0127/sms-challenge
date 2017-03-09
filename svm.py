@@ -67,6 +67,9 @@ print '\n\n==================== SVM ====================\n\n'
 clf = svm.SVC(gamma=0.01, C=100., kernel='rbf')
 clf.fit(vector, label)
 
+from sklearn.externals import joblib
+joblib.dump(clf, 'svm.pkl')
+
 with open('predictVector.json') as raw_json:
 	test_vector = json.load(raw_json)
 

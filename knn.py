@@ -61,6 +61,9 @@ print '\n\n==================== KNN ====================\n\n'
 knn = neighbors.KNeighborsClassifier(n_neighbors=10, weights='distance')
 knn.fit(vector, label)
 
+from sklearn.externals import joblib
+joblib.dump(knn, 'knn.pkl')
+
 with open('predictVector.json') as raw_json:
 	test_vector = json.load(raw_json)
 
