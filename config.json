@@ -1,0 +1,35 @@
+{
+	"KGRAM": 3,
+	"tokenizerFlag": 2,
+	"generalize": true,
+	"extraFeatures": false,
+	"onlyLowerCase": true,
+	"originalTrainingSMS": [
+		{
+			"fileName": "train.txt"
+		}
+	],
+	"extraTrainingSMS": true,
+	"extraSMS": [
+		{
+			"fileName": "spam.195.txt"
+		},
+		{
+			"fileName": "spam.ViettelDV.txt"
+		},
+		{
+			"fileName": "spam.ViettelQC.txt"
+		},
+		{
+			"fileName": "ham.kean.txt"
+		}
+	],
+	"predictSMS": [
+		{
+			"fileName": "spam.predict.CSKHVIETTEL.txt"
+		},
+		{
+			"fileName": "ham.predict.Mr. Lonely.txt"
+		}
+	]
+}
