@@ -2,7 +2,7 @@
 	"KGRAM": 3,
 	"tokenizerFlag": 2,
 	"generalize": true,
-	"extraFeatures": false,
+	"extraFeatures": true,
 	"onlyLowerCase": true,
 	"originalTrainingSMS": [
 		{
@@ -21,15 +21,15 @@
 			"fileName": "spam.ViettelQC.txt"
 		},
 		{
-			"fileName": "ham.kean.txt"
+			"fileName": "spam.CSKHVIETTEL.txt"
+		},
+		{
+			"fileName": "spam.out.txt"
 		}
 	],
 	"predictSMS": [
 		{
-			"fileName": "spam.predict.CSKHVIETTEL.txt"
-		},
-		{
-			"fileName": "ham.predict.Mr. Lonely.txt"
+			"fileName": "test.txt"
 		}
 	]
 }

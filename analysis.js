@@ -114,7 +114,7 @@ wordMap.map((key, index) => {
 
 // console.log(wordIndex);
 
-
+var sdtRegex = /((\b(\d ?){9}\d\b)|(\b(\d ?){10}\d\b)|(\b(\d ?){3}\d\b))/g;
 
 function extract(sms) {
 	
@@ -135,15 +135,27 @@ function extract(sms) {
 	}
 
 	var qc = 0;
-	if (sms.indexOf('qc') >= 0){
+	if ((sms.indexOf('qc') >= 0) || (sms.indexOf('q/c') >= 0)){
 		qc = 1;
+	}
+
+	var xxx = 0;
+	if ((sms.indexOf('xxx') >= 0) || ((sms.indexOf('sex') >= 0))){
+		xxx = 1;
+	}
+
+	var sdt = 0;
+	if (sdtRegex.test(sms)){
+		sdt = 1;
 	}
 
 	return {
 		core: result,
 		noOfCharacters: sms.length,
 		http: http,
-		qc: qc
+		qc: qc,
+		xxx: xxx,
+		sdt: sdt
 	}
 }
 
@@ -186,6 +198,12 @@ for(var index = 0; index < messages.length; index++){
 
 		// Contains 'qc' or not.
 		arr.push(extractedInfo.qc)
+
+		// Contains 'xxx' or not.
+		arr.push(extractedInfo.xxx)
+
+		// Contains sdt or not.
+		arr.push(extractedInfo.sdt)
 	}
 
 	Vector.push(arr);
@@ -208,7 +226,7 @@ if (generalize){
 	// 	mean[i] /= Vector.length;
 	// }
 
-	var max = [];
+	let max = [];
 	for(var i = 0; i < Vector[0].length; i++){
 		max.push(0);
 	}
@@ -371,6 +389,12 @@ for(var index = 0; index < predicSMS.length; index++){
 
 		// Contains 'qc' or not.
 		arr.push(extractedInfo.qc)
+
+		// Contains 'xxx' or not.
+		arr.push(extractedInfo.xxx)
+
+		// Contains sdt or not.
+		arr.push(extractedInfo.sdt)
 	}
 
 	predictVector.push(arr);
@@ -388,7 +412,7 @@ if (generalize){
 	// 	mean[i] /= Vector.length;
 	// }
 
-	var max = [];
+	let max = [];
 	for(var i = 0; i < predictVector[0].length; i++){
 		max.push(0);
 	}
@@ -412,6 +436,11 @@ if (generalize){
 			else {
 				predictVector[i][j] = 0;
 			}
+
+			// if (predictVector[i][j] > 1){
+			// 	predictVector[i][j] = 1
+			// }
+
 			// if (max[j] == 0){
 			// 	console.log('dmm');
 			// }

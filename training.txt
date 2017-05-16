@@ -1076,827 +1076,127 @@
     },
     {
         "id": 215,
-        "label": 1,
-        "content": "cho ti nha"
+        "label": -1,
+        "content": "viettel kinh chuc quy khach ngay sinh nhat vui ve, dam am ben nguoi than va gia dinh. tran trong cam on quy khach da su dung dich vu cua viettel."
     },
     {
         "id": 216,
-        "label": 1,
-        "content": "moi phut 5k"
+        "label": -1,
+        "content": "[qc] don noel 2016 voi nhieu chuong trinh dac biet danh rieng cho tb cua quy khach khi bam goi *098#. ct chi ap dung den 26/12. chi tiet goi 197 bam phim 21 (0d). tu choi qc, soan tc2 gui 199."
     },
     {
         "id": 217,
-        "label": 1,
-        "content": "5 lin :))))"
+        "label": -1,
+        "content": "[tb] de nhan duoc nhieu uu dai trong thang 01/2017, quy khach hay tro thanh khach hang thuong xuyen cua viettel khi su dung tk goc nam 2016 dat toi thieu 1 trieu dong. quy khach da su dung tk goc den thang 11 la 746268d. soan tra cuoc gui 195 de kiem tra tien cuoc dung trong thang 12/2016. chi tiet lh 18008098 (mien phi). tran trong."
     },
     {
         "id": 218,
-        "label": 1,
-        "content": "dai ca luon :))₫"
+        "label": -1,
+        "content": "[qc] de biet cac chuong trinh cham soc khach hang danh rieng cho tb cua quy khach, hay bam goi *098#. chi tiet goi 197 bam phim 21 (0d). tu choi qc, soan tc2 gui 199."
     },
     {
         "id": 219,
-        "label": 1,
-        "content": ":))))) he he he he. doi thanh ong trum cung dc"
+        "label": -1,
+        "content": "[qc] uu dai sms100: co 100 tin nhan noi mang, su dung trong 24h chi voi 3.000d. dang ky, bam goi *098# va chon km nhan tin. ct ap dung cho tb nhan duoc tin nhan. chi tiet goi 197 bam phim 32 (0d). tu choi qc, soan tc2 gui 199."
     },
     {
         "id": 220,
-        "label": 1,
-        "content": "ong truong :)))"
+        "label": -1,
+        "content": "[qc] mung nam moi 2017: hay bam goi *098# de tham gia ct cham soc khach hang dac biet ve mobile internet danh rieng cho tb cua quy khach. ct ap dung den ngay 31/1/2017. chi tiet goi 197 bam phim 21 (0d). tu choi qc, soan tc2 gui 199."
     },
     {
         "id": 221,
-        "label": 1,
-        "content": "01686820744"
+        "label": -1,
+        "content": "[qc] hay bam goi *098# de tham gia ct cham soc khach hang dac biet ve mobile internet (su dung theo ngay) danh rieng cho tb cua quy khach. chi tiet goi 197 bam phim 21 (0d). tu choi qc, soan tc2 gui 199."
     },
     {
         "id": 222,
-        "label": 1,
-        "content": "som ti nua thi dang ngoi room ko ra duoc nha :))))"
+        "label": -1,
+        "content": "[qc] ct cham soc khach hang danh cho hoc sinh - sinh vien: voi 2.500d/ngay co 550 tin nhan noi mang, cuoc goi noi mang chi 200d/p. de tham gia, bam goi *098*100#. chi tiet goi 197 bam phim 12 (0d). tu choi qc, soan tc2 gui 199."
     },
     {
         "id": 223,
-        "label": 1,
-        "content": ":))) the xong r ha. :v ngoan nam ngoan nam"
+        "label": -1,
+        "content": "[qc] ct cham soc khach hang thuong xuyen: uu dai 2.500d/ngay co 550 tin nhan noi mang, cuoc goi noi mang chi 200d/p, su dung den 24h (gia han hang ngay). de tham gia, bam goi *098*100#. chi tiet goi 197 bam phim 12 (0d). tu choi qc, soan tc2 gui 199."
     },
     {
         "id": 224,
-        "label": 1,
-        "content": "bo may"
+        "label": -1,
+        "content": "goi vao so 19006925 de noi chuyen va tam su voi em nhe ngoc trinh"
     },
     {
         "id": 225,
-        "label": 1,
-        "content": "anh kean"
+        "label": -1,
+        "content": "may em het pin. goi lai cho em vao so nay nhe 0942866737 co viec quan trong lam"
     },
     {
         "id": 226,
-        "label": 1,
-        "content": "a ko com nha nha:))"
+        "label": -1,
+        "content": "goi lai so 19006910 de noi chuyen giup em nhe"
     },
     {
         "id": 227,
-        "label": 1,
-        "content": ":v mai thoai. t len an vs em tang tren r :3 he he he"
+        "label": -1,
+        "content": "anh goi vao so 19004783 de noi chuyen va tam su voi em nhe"
     },
     {
         "id": 228,
-        "label": 1,
-        "content": "ah bó dj váng kaj la con ỏ nhà hu dón ngay :)))"
+        "label": -1,
+        "content": "xin vui long goi 9450942866737 de gui loi nhan thoai den thue bao 0942866737. thue bao tren se nhan duoc tin nhan thoai cua quy khach ngay khi ket noi lien lac"
     },
     {
         "id": 229,
-        "label": 1,
-        "content": "322a le trong tán"
+        "label": -1,
+        "content": "0942866737: vinaphone tang mien phi video xxx hoa hau…dai 15 phut. hay lick theo dia chi…."
     },
     {
         "id": 230,
-        "label": 1,
-        "content": "bo ra vs cac con day :)))"
+        "label": -1,
+        "content": "sim so dep - thanh ly xa kho hang trieu sim so dep"
     },
     {
         "id": 231,
-        "label": 1,
-        "content": "co ve r ms di hoc chu?"
+        "label": -1,
+        "content": "ban sim than tai 3939, 3979 ,7979, sim loc phat 6868, 6688,6886,8668"
     },
     {
         "id": 232,
-        "label": 1,
-        "content": "co chu :)))"
+        "label": -1,
+        "content": "ban sim than tai 3939, 3979,7979 , sim loc phat"
     },
     {
         "id": 233,
-        "label": 1,
-        "content": "thay giao kho tinh ko.sang chui phat :)))"
+        "label": -1,
+        "content": "sim mobi sieu dep, sieu re, tai khoan khung, giao tan noi"
     },
     {
         "id": 234,
-        "label": 1,
-        "content": "cu sang de. :3"
+        "label": -1,
+        "content": "viettel sieu re, nguyen moi chua kich, , gia tu 100k !"
     },
     {
         "id": 235,
-        "label": 1,
-        "content": "thoi chi giao dang cuong no.kaka.ti may gio ve thi doi anh,bung luon"
+        "label": -1,
+        "content": "sim viettel 10 so gia cuc re 80k 1 sim, chua kich, giao tan noi !!!"
     },
     {
         "id": 236,
-        "label": 1,
-        "content": "ku nau com di nha.a ve muon ti"
+        "label": -1,
+        "content": "viettel dau so 0961, rat nhieu so dep gia re, so cap, than tai, loc phat.."
     },
     {
         "id": 237,
-        "label": 1,
-        "content": "om :v ve rua bat"
+        "label": -1,
+        "content": "thanh ly toan bo sim so dep gia cuc re!"
     },
     {
         "id": 238,
-        "label": 1,
-        "content": "the la ve an la chu rua bat ho :))))"
+        "label": -1,
+        "content": "thanh ly sim sanh tien 01628.75.5678 tra sau ck 150k/24 thang gia 1.5 trieu"
     },
     {
         "id": 239,
-        "label": 1,
-        "content": "01653010729 di me gui so xong r sao? co phai ve luon ko hay dc dung doi :))"
-    },
-    {
-        "id": 240,
-        "label": 1,
-        "content": "thoi vuef di mua t may dieu cung dc"
-    },
-    {
-        "id": 241,
-        "label": 1,
-        "content": "ti cu an di nha.a ko com nha"
-    },
-    {
-        "id": 242,
-        "label": 1,
-        "content": "di luon di dung vac xac ve nua >.<"
-    },
-    {
-        "id": 243,
-        "label": 1,
-        "content": "con cai nha mat ray :((("
-    },
-    {
-        "id": 244,
-        "label": 1,
-        "content": "ve chua.ra a15 com de"
-    },
-    {
-        "id": 245,
-        "label": 1,
-        "content": "chua :v chac 12h ms tan"
-    },
-    {
-        "id": 246,
-        "label": 1,
-        "content": "the a ve da.ti tinh sau"
-    },
-    {
-        "id": 247,
-        "label": 1,
-        "content": "ti di cho nha"
-    },
-    {
-        "id": 248,
-        "label": 1,
-        "content": "ok"
-    },
-    {
-        "id": 249,
-        "label": 1,
-        "content": "ti cu an di nha .a di choi ti :))"
-    },
-    {
-        "id": 250,
-        "label": 1,
-        "content": "ty tan hoc ra a15 hoc nhe :v"
-    },
-    {
-        "id": 251,
-        "label": 1,
-        "content": "lai mat nuoc .ti di bus ra nha"
-    },
-    {
-        "id": 252,
-        "label": 1,
-        "content": "yep"
-    },
-    {
-        "id": 253,
-        "label": 1,
-        "content": "ko phan an trong a15 dau nha dung mua phieu"
-    },
-    {
-        "id": 254,
-        "label": 1,
-        "content": "can't talk now, will call you later."
-    },
-    {
-        "id": 255,
-        "label": 1,
-        "content": "toi ko mam nha ahihi"
-    },
-    {
-        "id": 256,
-        "label": 1,
-        "content": "nam ms chuc gia dinh manh khoe. chuc con zai hoc gioi, sang nam nay thit dc con gai nha nguoi ta."
-    },
-    {
-        "id": 257,
-        "label": 1,
-        "content": "ngan duoi tu quan ao :))"
-    },
-    {
-        "id": 258,
-        "label": 1,
-        "content": "o thay r :v giau kinh vl :)))"
-    },
-    {
-        "id": 259,
-        "label": 1,
-        "content": "12h tan di an com gia dinh de :v"
-    },
-    {
-        "id": 260,
-        "label": 1,
-        "content": "ngon a vua ms ts phong."
-    },
-    {
-        "id": 261,
-        "label": 1,
-        "content": "phong nao?"
-    },
-    {
-        "id": 262,
-        "label": 1,
-        "content": "nha tro :)) nay uong tra da ben xay dung chan xong ms ve , dt de balo"
-    },
-    {
-        "id": 263,
-        "label": 1,
-        "content": ":v the toi. ty an gi :v"
-    },
-    {
-        "id": 264,
-        "label": 1,
-        "content": "xoi xay dung de :)"
-    },
-    {
-        "id": 265,
-        "label": 1,
-        "content": ":v om ty t di mua"
-    },
-    {
-        "id": 266,
-        "label": 1,
-        "content": "bun de to hoang de"
-    },
-    {
-        "id": 267,
-        "label": 1,
-        "content": "bau thang bom nua"
-    },
-    {
-        "id": 268,
-        "label": 1,
-        "content": "chu nt luon di a ko co so moi cua n"
-    },
-    {
-        "id": 269,
-        "label": 1,
-        "content": "di cho roi nha"
-    },
-    {
-        "id": 270,
-        "label": 1,
-        "content": "uhm con ml nay eo nghe"
-    },
-    {
-        "id": 271,
-        "label": 1,
-        "content": "alo ti ve mua xoi nha. a ve tu 10h roi :))"
-    },
-    {
-        "id": 272,
-        "label": 1,
-        "content": "toi a ko com nha nha"
-    },
-    {
-        "id": 273,
-        "label": 1,
-        "content": "toi com nha ko day"
-    },
-    {
-        "id": 274,
-        "label": 1,
-        "content": "chac ko :))"
-    },
-    {
-        "id": 275,
-        "label": 1,
-        "content": "lai con chac ko nua. ko nau nha."
-    },
-    {
-        "id": 276,
-        "label": 1,
-        "content": "qua nt zalo de im lang :))) the ve thung a"
-    },
-    {
-        "id": 277,
-        "label": 1,
-        "content": "ti ve mua xoi nha"
-    },
-    {
-        "id": 278,
-        "label": 1,
-        "content": "bao gio chu ve the"
-    },
-    {
-        "id": 279,
-        "label": 1,
-        "content": "ko biet.dang chuyen nha cho con bom. co chia khoa day r. di dau cu di"
-    },
-    {
-        "id": 280,
-        "label": 1,
-        "content": "uhm a hoi the, so ti chu ve ko co chia"
-    },
-    {
-        "id": 281,
-        "label": 1,
-        "content": ":v toi ko an nha nha :3"
-    },
-    {
-        "id": 282,
-        "label": 1,
-        "content": "an tan gia chu :))"
-    },
-    {
-        "id": 283,
-        "label": 1,
-        "content": "anh day anh day nho a ak :)))"
-    },
-    {
-        "id": 284,
-        "label": 1,
-        "content": "thoi thoi sang an luon kem danh rang roi. kaka"
-    },
-    {
-        "id": 285,
-        "label": 1,
-        "content": "com kte de :))"
-    },
-    {
-        "id": 286,
-        "label": 1,
-        "content": "com gd de. ty di vs con hola nua"
-    },
-    {
-        "id": 287,
-        "label": 1,
-        "content": "t ve nha cmnr :))"
-    },
-    {
-        "id": 288,
-        "label": 1,
-        "content": "thi kieu gi cha phai ra. tinh di bo ra kt an a"
-    },
-    {
-        "id": 289,
-        "label": 1,
-        "content": "di bo cho nhanh"
-    },
-    {
-        "id": 290,
-        "label": 1,
-        "content": "toi a ko com nha"
-    },
-    {
-        "id": 291,
-        "label": 1,
-        "content": "yep."
-    },
-    {
-        "id": 292,
-        "label": 1,
-        "content": "trua ko dop nha :v"
-    },
-    {
-        "id": 293,
-        "label": 1,
-        "content": "om :))"
-    },
-    {
-        "id": 294,
-        "label": 1,
-        "content": "mua them chai nua di , anh uong cmn nua chai roi :)))"
-    },
-    {
-        "id": 295,
-        "label": 1,
-        "content": "ty ve mua com na :***"
-    },
-    {
-        "id": 296,
-        "label": 1,
-        "content": "cam com di na na na :)))"
-    },
-    {
-        "id": 297,
-        "label": 1,
-        "content": "cho nao the"
-    },
-    {
-        "id": 298,
-        "label": 1,
-        "content": "trua ko com nha :)"
-    },
-    {
-        "id": 299,
-        "label": 1,
-        "content": "det. cu doi m ve goi day an com 😂😂😂"
-    },
-    {
-        "id": 300,
-        "label": 1,
-        "content": "ac nay ve lay do thay dang ngu :))₫"
-    },
-    {
-        "id": 301,
-        "label": 1,
-        "content": "co luon, hoa dai a :))"
-    },
-    {
-        "id": 302,
-        "label": 1,
-        "content": ":)) luon. y la ko com nha"
-    },
-    {
-        "id": 303,
-        "label": 1,
-        "content": "thi y t la tk hoa dai m con gi. hay phuong dua di giai ma giac mo :)))"
-    },
-    {
-        "id": 304,
-        "label": 1,
-        "content": "xuong co cau ngay"
-    },
-    {
-        "id": 305,
-        "label": 1,
-        "content": "chu len chua"
-    },
-    {
-        "id": 306,
-        "label": 1,
-        "content": "sang mai ms len co :v"
-    },
-    {
-        "id": 307,
-        "label": 1,
-        "content": "lai phai choi het lo ruoc roi :))"
-    },
-    {
-        "id": 308,
-        "label": 1,
-        "content": "lo"
-    },
-    {
-        "id": 309,
-        "label": 1,
-        "content": "dang o lop. di an a :))"
-    },
-    {
-        "id": 310,
-        "label": 1,
-        "content": "ko. tuong o nha cam ho cai balo"
-    },
-    {
-        "id": 311,
-        "label": 1,
-        "content": "thuyet trinh ko can may a :)"
-    },
-    {
-        "id": 312,
-        "label": 1,
-        "content": "chieu di phuong tien gi day :))"
-    },
-    {
-        "id": 313,
-        "label": 1,
-        "content": "toi ko com nha"
-    },
-    {
-        "id": 314,
-        "label": 1,
-        "content": "o ki"
-    },
-    {
-        "id": 315,
-        "label": 1,
-        "content": "may gio chu tan"
-    },
-    {
-        "id": 316,
-        "label": 1,
-        "content": "tam 12h :)))"
-    },
-    {
-        "id": 317,
-        "label": 1,
-        "content": "the ko bao com a"
-    },
-    {
-        "id": 318,
-        "label": 1,
-        "content": "cha bao :v"
-    },
-    {
-        "id": 319,
-        "label": 1,
-        "content": "the choc ve doi a o nga tu cho dong tam roi di nha"
-    },
-    {
-        "id": 320,
-        "label": 1,
-        "content": "ua :v"
-    },
-    {
-        "id": 321,
-        "label": 1,
-        "content": "ve chua"
-    },
-    {
-        "id": 322,
-        "label": 1,
-        "content": "hoa dang bao ve. bao gio ve t goi :v"
-    },
-    {
-        "id": 323,
-        "label": 1,
-        "content": "sang nay chu co di hoc ko"
-    },
-    {
-        "id": 324,
-        "label": 1,
-        "content": "co dang hoc. :v 12h tan"
-    },
-    {
-        "id": 325,
-        "label": 1,
-        "content": "the choc qua nha don anh nha. he"
-    },
-    {
-        "id": 326,
-        "label": 1,
-        "content": "quay tay vua vua sang mai 8h30 con di lam con nha"
-    },
-    {
-        "id": 327,
-        "label": 1,
-        "content": "d'. cu phai vat kiet :v"
-    },
-    {
-        "id": 328,
-        "label": 1,
-        "content": "vua vua thoi de con nha nguoi ta con on thi. ong nhu ho vo thi ai chiu noi :))))"
-    },
-    {
-        "id": 329,
-        "label": 1,
-        "content": "he he toi ko dop. ma toi co di an man ko?"
-    },
-    {
-        "id": 330,
-        "label": 1,
-        "content": "ai ten la ko o day. tuong thang con sang"
-    },
-    {
-        "id": 331,
-        "label": 1,
-        "content": "cuc mut. an thi vac mom sang chu :)))"
-    },
-    {
-        "id": 332,
-        "label": 1,
-        "content": "may gio nhi de con an com trc :))"
-    },
-    {
-        "id": 333,
-        "label": 1,
-        "content": "d' biet. goi hoi no xem the nao. t di an da :3"
-    },
-    {
-        "id": 334,
-        "label": 1,
-        "content": "the tam 8h cho thoai mai"
-    },
-    {
-        "id": 335,
-        "label": 1,
-        "content": "ah de choc co ban gi ko ra don thay voi :))"
-    },
-    {
-        "id": 336,
-        "label": 1,
-        "content": "bat thang hoa ra don. chieu co viec r vs ca xe dang o cho no. :v"
-    },
-    {
-        "id": 337,
-        "label": 1,
-        "content": "uhm tuong 2 tk dang thong nhau :))"
-    },
-    {
-        "id": 338,
-        "label": 1,
-        "content": "anh cho em muon xe may di luon ti nha :))"
-    },
-    {
-        "id": 339,
-        "label": 1,
-        "content": "toi nay ko com nha"
-    },
-    {
-        "id": 340,
-        "label": 1,
-        "content": ":v dong vl. ko lanh chanh thi het me cho ngoi r."
-    },
-    {
-        "id": 341,
-        "label": 1,
-        "content": "y thuc kem :)) quay lai don phong di roi ve :))"
-    },
-    {
-        "id": 342,
-        "label": 1,
-        "content": "alo alo"
-    },
-    {
-        "id": 343,
-        "label": 1,
-        "content": "098 9069152. xung anh vs em cho no than thien con nha :))"
-    },
-    {
-        "id": 344,
-        "label": 1,
-        "content": ":)) bo con cho de song"
-    },
-    {
-        "id": 345,
-        "label": 1,
-        "content": "the thi phai cho ho bao hieu a e minh :))"
-    },
-    {
-        "id": 346,
-        "label": 1,
-        "content": "the bon kia no chuyen chua"
-    },
-    {
-        "id": 347,
-        "label": 1,
-        "content": "toi moi ban giao. :v"
-    },
-    {
-        "id": 348,
-        "label": 1,
-        "content": "lam viec nhu nha nuoc ey nhi, the tam hon 5h co ban gi ko ra don cau :))"
-    },
-    {
-        "id": 349,
-        "label": 1,
-        "content": ":v tam do dang chuan bi di choi. he"
-    },
-    {
-        "id": 350,
-        "label": 1,
-        "content": "choi cai luon, o nha toi con di ban giao :v"
-    },
-    {
-        "id": 351,
-        "label": 1,
-        "content": "thieu lin quan. linh sex len r"
-    },
-    {
-        "id": 352,
-        "label": 1,
-        "content": "the a sex con o phong ko? toi di ko mang qua ve bo hiep :)))"
-    },
-    {
-        "id": 353,
-        "label": 1,
-        "content": "con. dang tinh toi kich m ra hoang mai ngu cho rong :)))"
-    },
-    {
-        "id": 354,
-        "label": 1,
-        "content": "kich cai con cc. con thich bo dieu chi be cu teo di cho:)))"
-    },
-    {
-        "id": 355,
-        "label": 1,
-        "content": "trong dot dieu chinh ma huy hoc phan thi co mat tien hoc phi ko nhi"
-    },
-    {
-        "id": 356,
-        "label": 1,
-        "content": "chac la ko. :v huy cai gi do"
-    },
-    {
-        "id": 357,
-        "label": 1,
-        "content": "huy big data :)) nhu cai luon, mon day hoc sang nay co phai vui ko :))"
-    },
-    {
-        "id": 358,
-        "label": 1,
-        "content": ":v wtf m co dk big data dau ma huy"
-    },
-    {
-        "id": 359,
-        "label": 1,
-        "content": "gi day"
-    },
-    {
-        "id": 360,
-        "label": 1,
-        "content": "5r tan a? tan som thi loang quang di choi di nha :)))"
-    },
-    {
-        "id": 361,
-        "label": 1,
-        "content": "loang thang cha m, toi tay ue cho phong bo :)))"
-    },
-    {
-        "id": 362,
-        "label": 1,
-        "content": "cc. doc tn thi goi lai ngay nhe"
-    },
-    {
-        "id": 363,
-        "label": 1,
-        "content": "toi ko com nha, chuan bi xien 8h anh trai sang thu :))"
-    },
-    {
-        "id": 364,
-        "label": 1,
-        "content": "du. bon no di dau tiet r ay. m ko ve ma thu tien :v"
-    },
-    {
-        "id": 365,
-        "label": 1,
-        "content": "linh nop cho chu roi dung ko, a cho ha ban vay nua, hoa dau roi?"
-    },
-    {
-        "id": 366,
-        "label": 1,
-        "content": "con ngoan choc bo xuong choi nha :)))"
-    },
-    {
-        "id": 367,
-        "label": 1,
-        "content": "nay dang goi bi sap"
-    },
-    {
-        "id": 368,
-        "label": 1,
-        "content": "vl ngoi dau day? tang tren a"
-    },
-    {
-        "id": 369,
-        "label": 1,
-        "content": "tang 20, nay co 4 thanh nien moi. qua nay choi php kho mau roi :))"
-    },
-    {
-        "id": 370,
-        "label": 1,
-        "content": "ngoi may bay phan luc a :))"
-    },
-    {
-        "id": 371,
-        "label": 1,
-        "content": "o nha de y may thanh nien lam bien quang cao nha, no an trom sit la chet day :)))"
-    },
-    {
-        "id": 372,
-        "label": 1,
-        "content": "a bao sao thay tieng dong tren tang :))"
-    },
-    {
-        "id": 373,
-        "label": 1,
-        "content": "cu tien hanh thoi. he"
-    },
-    {
-        "id": 374,
-        "label": 1,
-        "content": ":v vl vl vl. alo"
-    },
-    {
-        "id": 375,
-        "label": 1,
-        "content": "ko mua. nay quen ca bao thuc :)))"
-    },
-    {
-        "id": 376,
-        "label": 1,
-        "content": "len tang bo bao cai nay"
-    },
-    {
-        "id": 377,
-        "label": 1,
-        "content": "m diec a :)))"
-    },
-    {
-        "id": 378,
-        "label": 1,
-        "content": "ciec :v"
-    },
-    {
-        "id": 379,
-        "label": 1,
-        "content": "van diec a :)))"
+        "label": -1,
+        "content": "dang mo ban 10.000 sim viettel 10 so"
     }
 ]
